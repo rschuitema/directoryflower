@@ -5,7 +5,7 @@ The change to the original CodeFlower is that it now directly can read the data 
 
 
 # usage
-1. Run the tool <a href="http://cloc.sourceforge.net/">cloc</a> in a directory with the following commandline: `cloc <directory> --csv --by-file --report-file=directory_structure.cloc`
+1. Run the tool <a href="http://cloc.sourceforge.net/">cloc</a> in a directory: `cloc <directory> --csv --by-file --report-file=directory_structure.cloc`
 1. Put the generated file in the same directory as the html file.
 1. Start a web server: `python -m http.server 8000`
 1. In your browser goto `localhost:8000`
