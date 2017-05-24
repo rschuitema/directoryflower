@@ -1,0 +1,1826 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.72  T=50.00 s (36.5 files/s, 26655.4 lines/s)"
+HTML,.\notepad-plusplus_html\object_xref.html,33560,0,246374
+HTML,.\notepad-plusplus_html\dictionary.html,51743,0,98540
+HTML,.\notepad-plusplus_html\progunit_xref.html,10492,0,94224
+HTML,.\notepad-plusplus_html\macro_xref.html,6090,0,40483
+HTML,.\notepad-plusplus_html\simpleinvtree.html,5251,0,32627
+HTML,.\notepad-plusplus_html\type_xref.html,1602,0,29968
+HTML,.\notepad-plusplus_html\entity_index.html,0,0,29798
+XML,.\PowerEditor\installer\APIs\php.xml,0,4,14217
+HTML,.\notepad-plusplus_html\contents_file.html,0,0,13466
+HTML,.\scintilla\doc\ScintillaHistory.html,0,3,10501
+HTML,.\notepad-plusplus_html\3015.html,0,0,8745
+HTML,.\notepad-plusplus_html\46031.html,0,0,7692
+HTML,.\notepad-plusplus_html\progunit_metrics.html,0,0,7062
+HTML,.\notepad-plusplus_html\progunitcomp_metrics.html,0,0,7020
+C/C++ Header,.\scintilla\test\unit\catch.hpp,1476,340,6918
+HTML,.\notepad-plusplus_html\31585.html,0,0,6658
+C++,.\scintilla\src\Editor.cxx,902,419,6360
+HTML,.\notepad-plusplus_html\11773.html,0,0,6327
+HTML,.\scintilla\doc\ScintillaDoc.html,1451,54,6211
+C++,.\PowerEditor\src\Parameters.cpp,895,260,5161
+C++,.\PowerEditor\src\Notepad_plus.cpp,987,718,4942
+HTML,.\notepad-plusplus_html\uninitializeditems.html,376,0,4190
+HTML,.\notepad-plusplus_html\inc_xref.html,473,0,4145
+XML,.\PowerEditor\installer\APIs\java.xml,0,0,3706
+HTML,.\notepad-plusplus_html\unuseditemsall.html,321,0,3703
+HTML,.\notepad-plusplus_html\4515.html,0,0,3604
+HTML,.\notepad-plusplus_html\45305.html,0,0,3352
+HTML,.\notepad-plusplus_html\27038.html,0,0,3336
+HTML,.\notepad-plusplus_html\43406.html,0,0,3317
+HTML,.\notepad-plusplus_html\33774.html,0,0,3315
+HTML,.\notepad-plusplus_html\41319.html,0,0,3284
+C++,.\scintilla\lexlib\CharacterCategory.cxx,10,22,3272
+HTML,.\notepad-plusplus_html\9529.html,0,0,3271
+HTML,.\notepad-plusplus_html\48230.html,0,0,3211
+HTML,.\notepad-plusplus_html\39418.html,0,0,3186
+C++,.\PowerEditor\src\ScitillaComponent\FindReplaceDlg.cpp,529,168,2896
+HTML,.\notepad-plusplus_html\1183.html,0,0,2828
+C++,.\scintilla\win32\PlatWin.cxx,382,138,2786
+C++,.\scintilla\gtk\ScintillaGTK.cxx,352,191,2730
+C++,.\scintilla\win32\ScintillaWin.cxx,364,240,2721
+C++,.\PowerEditor\src\NppCommands.cpp,387,75,2713
+C++,.\PowerEditor\src\WinControls\Preference\preferenceDlg.cpp,430,72,2698
+C++,.\PowerEditor\src\ScitillaComponent\ScintillaEditView.cpp,462,177,2621
+C++,.\PowerEditor\src\WinControls\Grid\BabyGrid.cpp,407,369,2565
+C++,.\scintilla\src\Document.cxx,224,188,2405
+HTML,.\notepad-plusplus_html\51602.html,0,0,2347
+HTML,.\notepad-plusplus_html\50238.html,0,0,2334
+HTML,.\notepad-plusplus_html\38398.html,0,0,2291
+HTML,.\notepad-plusplus_html\31209.html,0,0,2203
+XML,.\PowerEditor\installer\APIs\tex.xml,0,0,2159
+HTML,.\notepad-plusplus_html\23293.html,0,0,2128
+XML,.\PowerEditor\installer\APIs\cpp.xml,1,19,2050
+C++,.\scintilla\lexers\LexHTML.cxx,119,116,1957
+C++,.\scintilla\gtk\PlatGTK.cxx,239,130,1911
+HTML,.\notepad-plusplus_html\56.html,0,0,1905
+C++,.\PowerEditor\src\NppBigSwitch.cpp,339,96,1888
+HTML,.\notepad-plusplus_html\36649.html,0,0,1887
+HTML,.\notepad-plusplus_html\unusedobj.html,247,0,1883
+C++,.\scintilla\lexers\LexUser.cxx,270,195,1871
+C/C++ Header,.\scintilla\include\SciLexer.h,11,12,1871
+HTML,.\notepad-plusplus_html\26685.html,0,0,1848
+C++,.\scintilla\src\EditView.cxx,182,156,1779
+HTML,.\notepad-plusplus_html\42538.html,0,0,1768
+Python,.\scintilla\test\simpleTests.py,250,116,1754
+HTML,.\notepad-plusplus_html\2693.html,0,0,1745
+HTML,.\notepad-plusplus_html\47764.html,0,0,1740
+XML,.\PowerEditor\installer\APIs\sql.xml,0,0,1731
+Objective C++,.\scintilla\cocoa\ScintillaCocoa.mm,406,464,1670
+HTML,.\notepad-plusplus_html\43.html,0,0,1637
+Objective C++,.\scintilla\cocoa\PlatCocoa.mm,354,286,1602
+HTML,.\notepad-plusplus_html\35926.html,0,0,1598
+HTML,.\notepad-plusplus_html\unusedprogunit.html,184,0,1597
+XML,.\PowerEditor\installer\APIs\c.xml,0,0,1546
+HTML,.\notepad-plusplus_html\4130.html,0,0,1543
+C++,.\PowerEditor\src\ScitillaComponent\UserDefineDialog.cpp,203,51,1503
+C++,.\PowerEditor\src\NppIO.cpp,256,139,1481
+HTML,.\notepad-plusplus_html\24642.html,0,0,1479
+C++,.\scintilla\lexers\LexPerl.cxx,70,187,1472
+C++,.\scintilla\lexers\LexCPP.cxx,108,83,1435
+C++,.\scintilla\lexers\LexRuby.cxx,117,335,1385
+HTML,.\notepad-plusplus_html\10832.html,0,0,1346
+HTML,.\notepad-plusplus_html\35318.html,0,0,1339
+C/C++ Header,.\PowerEditor\src\Parameters.h,360,58,1316
+HTML,.\notepad-plusplus_html\3279.html,0,0,1277
+HTML,.\notepad-plusplus_html\3277.html,0,0,1274
+HTML,.\notepad-plusplus_html\26005.html,0,0,1267
+HTML,.\notepad-plusplus_html\15743.html,0,0,1220
+Objective C++,.\scintilla\cocoa\ScintillaView.mm,322,431,1210
+HTML,.\notepad-plusplus_html\55.html,0,0,1188
+HTML,.\notepad-plusplus_html\29365.html,0,0,1173
+HTML,.\notepad-plusplus_html\26234.html,0,0,1160
+HTML,.\notepad-plusplus_html\5958.html,0,0,1157
+HTML,.\notepad-plusplus_html\30250.html,0,0,1154
+HTML,.\notepad-plusplus_html\6637.html,0,0,1145
+C++,.\PowerEditor\src\ScitillaComponent\Buffer.cpp,261,183,1143
+HTML,.\notepad-plusplus_html\40136.html,0,0,1122
+C/C++ Header,.\scintilla\include\Scintilla.h,32,31,1114
+HTML,.\notepad-plusplus_html\49889.html,0,0,1105
+C++,.\PowerEditor\src\WinControls\DockingWnd\DockingCont.cpp,234,145,1089
+C++,.\scintilla\qt\ScintillaEditBase\PlatQt.cpp,189,59,1087
+C++,.\PowerEditor\src\WinControls\FileBrowser\fileBrowser.cpp,214,236,1082
+HTML,.\notepad-plusplus_html\29815.html,0,0,1081
+HTML,.\notepad-plusplus_html\30948.html,0,0,1066
+HTML,.\notepad-plusplus_html\29576.html,0,0,1056
+C++,.\PowerEditor\src\TinyXml\tinyXmlA\tinyxmlA.cpp,228,73,1027
+XML,.\PowerEditor\installer\nativeLang\croatian.xml,39,9,1009
+HTML,.\notepad-plusplus_html\9212.html,0,0,997
+C++,.\PowerEditor\src\WinControls\ProjectPanel\ProjectPanel.cpp,153,62,994
+HTML,.\notepad-plusplus_html\24103.html,0,0,979
+HTML,.\notepad-plusplus_html\50607.html,0,0,979
+C++,.\PowerEditor\src\TinyXml\tinyxml.cpp,217,60,979
+HTML,.\notepad-plusplus_html\47452.html,0,0,971
+XML,.\PowerEditor\installer\nativeLang\czech.xml,22,13,971
+HTML,.\notepad-plusplus_html\30725.html,0,0,966
+XML,.\PowerEditor\installer\nativeLang\catalan.xml,0,7,959
+XML,.\PowerEditor\installer\nativeLang\german.xml,40,13,958
+XML,.\PowerEditor\installer\nativeLang\italian.xml,28,14,952
+HTML,.\notepad-plusplus_html\24325.html,0,0,947
+XML,.\PowerEditor\installer\nativeLang\russian.xml,9,5,947
+XML,.\PowerEditor\installer\nativeLang\japanese.xml,36,7,944
+XML,.\PowerEditor\installer\nativeLang\corsican.xml,35,11,943
+XML,.\PowerEditor\installer\APIs\python.xml,0,4,942
+XML,.\PowerEditor\installer\nativeLang\chinese.xml,22,6,941
+XML,.\PowerEditor\installer\nativeLang\bulgarian.xml,1,114,939
+XML,.\PowerEditor\installer\APIs\actionscript.xml,0,0,935
+C++,.\scintilla\lexers\LexVerilog.cxx,54,67,934
+XML,.\PowerEditor\installer\nativeLang\chineseSimplified.xml,29,6,934
+XML,.\PowerEditor\installer\nativeLang\french.xml,14,6,934
+XML,.\PowerEditor\installer\nativeLang\polish.xml,36,5,933
+XML,.\PowerEditor\installer\nativeLang\english.xml,33,5,932
+XML,.\PowerEditor\installer\nativeLang\danish.xml,33,5,932
+XML,.\PowerEditor\installer\nativeLang\ukrainian.xml,33,5,931
+XML,.\PowerEditor\installer\nativeLang\swedish.xml,0,5,931
+XML,.\PowerEditor\installer\nativeLang\hindi.xml,34,17,931
+XML,.\PowerEditor\installer\nativeLang\slovenian.xml,34,9,931
+XML,.\PowerEditor\installer\nativeLang\farsi.xml,33,5,931
+HTML,.\notepad-plusplus_html\3845.html,0,0,931
+XML,.\PowerEditor\installer\nativeLang\spanish.xml,0,5,930
+XML,.\PowerEditor\installer\nativeLang\brazilian_portuguese.xml,14,3,929
+HTML,.\notepad-plusplus_html\19709.html,0,0,924
+HTML,.\notepad-plusplus_html\2463.html,0,0,921
+XML,.\PowerEditor\installer\nativeLang\hungarian.xml,34,9,920
+C++,.\PowerEditor\src\localization.cpp,155,74,917
+XML,.\PowerEditor\installer\nativeLang\basque.xml,22,5,915
+HTML,.\notepad-plusplus_html\44552.html,0,0,914
+XML,.\PowerEditor\installer\nativeLang\english_customizable.xml,32,5,912
+HTML,.\notepad-plusplus_html\17310.html,0,0,911
+XML,.\PowerEditor\installer\nativeLang\turkish.xml,34,5,907
+XML,.\PowerEditor\installer\nativeLang\tatar.xml,11,4,907
+XML,.\PowerEditor\installer\nativeLang\dutch.xml,0,8,907
+XML,.\PowerEditor\installer\nativeLang\korean.xml,0,6,905
+XML,.\PowerEditor\installer\nativeLang\punjabi.xml,37,12,905
+XML,.\PowerEditor\installer\nativeLang\albanian.xml,35,5,902
+C++,.\scintilla\lexers\LexOthers.cxx,64,189,896
+HTML,.\notepad-plusplus_html\23176.html,0,0,896
+XML,.\PowerEditor\src\stylers.model.xml,0,1,895
+XML,.\PowerEditor\installer\nativeLang\tajikCyrillic.xml,35,5,895
+XML,.\PowerEditor\installer\nativeLang\latvian.xml,31,7,894
+Windows Resource File,.\PowerEditor\src\Notepad_plus.rc,51,41,884
+XML,.\PowerEditor\installer\themes\Solarized-light.xml,4,42,882
+XML,.\PowerEditor\installer\themes\HotFudgeSundae.xml,2,35,882
+XML,.\PowerEditor\installer\themes\Navajo.xml,2,33,882
+XML,.\PowerEditor\installer\themes\MossyLawn.xml,2,36,882
+XML,.\PowerEditor\installer\themes\Solarized.xml,4,42,882
+XML,.\PowerEditor\installer\themes\khaki.xml,2,34,882
+XML,.\PowerEditor\installer\nativeLang\finnish.xml,4,12,881
+XML,.\PowerEditor\installer\nativeLang\portuguese.xml,32,25,880
+XML,.\PowerEditor\installer\nativeLang\mongolian.xml,31,5,880
+XML,.\PowerEditor\installer\nativeLang\kannada.xml,31,12,880
+XML,.\PowerEditor\installer\nativeLang\welsh.xml,26,10,880
+C++,.\scintilla\src\ScintillaBase.cxx,169,23,878
+HTML,.\notepad-plusplus_html\13823.html,0,0,877
+C++,.\PowerEditor\src\TinyXml\tinyXmlA\tinyxmlparserA.cpp,151,134,877
+XML,.\PowerEditor\installer\nativeLang\romanian.xml,31,4,875
+XML,.\PowerEditor\installer\nativeLang\esperanto.xml,51,45,867
+XML,.\PowerEditor\installer\nativeLang\bengali.xml,34,9,866
+XML,.\PowerEditor\installer\nativeLang\gujarati.xml,33,9,865
+C++,.\PowerEditor\src\WinControls\TabBar\TabBar.cpp,175,94,865
+XML,.\PowerEditor\installer\nativeLang\kabyle.xml,37,4,864
+C++,.\PowerEditor\src\TinyXml\tinyxmlparser.cpp,147,132,864
+XML,.\PowerEditor\installer\nativeLang\estonian.xml,32,9,862
+HTML,.\notepad-plusplus_html\51319.html,0,0,861
+XML,.\PowerEditor\installer\nativeLang\vietnamese.xml,30,4,860
+XML,.\PowerEditor\installer\themes\Zenburn.xml,0,12,859
+HTML,.\notepad-plusplus_html\47547.html,0,0,856
+XML,.\PowerEditor\installer\nativeLang\spanish_ar.xml,30,4,854
+C++,.\scintilla\lexers\LexHaskell.cxx,153,106,852
+C++,.\PowerEditor\src\tools\NppShell\src\NppShell.cpp,165,83,846
+HTML,.\notepad-plusplus_html\36395.html,0,0,833
+HTML,.\notepad-plusplus_html\33511.html,0,0,827
+C++,.\scintilla\lexers\LexSQL.cxx,88,59,821
+XML,.\PowerEditor\installer\nativeLang\aragonese.xml,33,9,801
+C++,.\PowerEditor\src\WinControls\shortcut\shortcut.cpp,102,63,790
+C++,.\PowerEditor\src\NppNotification.cpp,115,74,779
+HTML,.\notepad-plusplus_html\37081.html,0,0,777
+XML,.\PowerEditor\installer\themes\Obsidian.xml,1,10,773
+HTML,.\notepad-plusplus_html\48943.html,0,0,773
+C++,.\PowerEditor\src\WinControls\Grid\ShortcutMapper.cpp,107,58,771
+HTML,.\notepad-plusplus_html\42768.html,0,0,754
+C++,.\scintilla\lexers\LexTADS3.cxx,61,89,753
+XML,.\PowerEditor\installer\themes\Plastic Code Wrap.xml,9,41,745
+XML,.\PowerEditor\installer\themes\Hello Kitty.xml,0,10,744
+C++,.\scintilla\lexers\LexBash.cxx,32,69,744
+C++,.\PowerEditor\src\WinControls\DockingWnd\DockingManager.cpp,135,108,743
+XML,.\PowerEditor\installer\themes\vim Dark Blue.xml,2,7,741
+XML,.\PowerEditor\installer\themes\Bespin.xml,9,38,738
+HTML,.\notepad-plusplus_html\48880.html,0,0,735
+XML,.\PowerEditor\installer\themes\Mono Industrial.xml,9,40,734
+XML,.\PowerEditor\installer\themes\Monokai.xml,9,40,734
+XML,.\PowerEditor\installer\themes\Deep Black.xml,2,18,734
+XML,.\PowerEditor\installer\themes\Twilight.xml,9,41,734
+XML,.\PowerEditor\installer\themes\Black board.xml,9,40,734
+XML,.\PowerEditor\installer\themes\Choco.xml,9,40,734
+C++,.\PowerEditor\src\WinControls\WindowsDlg\WindowsDlg.cpp,78,42,730
+XML,.\PowerEditor\installer\themes\Vibrant Ink.xml,3,22,730
+HTML,.\notepad-plusplus_html\18841.html,0,0,715
+HTML,.\notepad-plusplus_html\17575.html,0,0,714
+C++,.\scintilla\lexers\LexAU3.cxx,31,171,708
+C++,.\scintilla\lexers\LexRust.cxx,66,42,708
+C++,.\PowerEditor\src\ScitillaComponent\AutoCompletion.cpp,131,62,707
+C++,.\PowerEditor\src\MISC\Common\Common.cpp,135,78,700
+C++,.\PowerEditor\src\WinControls\ColourPicker\WordStyleDlg.cpp,118,51,697
+C/C++ Header,.\PowerEditor\src\ScitillaComponent\ScintillaEditView.h,174,52,694
+HTML,.\notepad-plusplus_html\17184.html,0,0,693
+HTML,.\notepad-plusplus_html\2691.html,0,0,693
+C++,.\scintilla\lexers\LexHex.cxx,178,178,689
+HTML,.\notepad-plusplus_html\49233.html,0,0,688
+HTML,.\notepad-plusplus_html\51155.html,0,0,680
+C++,.\scintilla\lexers\LexModula.cxx,53,11,679
+XML,.\PowerEditor\installer\nativeLang\nynorsk.xml,27,6,676
+XML,.\PowerEditor\installer\nativeLang\slovak.xml,24,3,676
+XML,.\PowerEditor\installer\APIs\javascript.xml,0,0,676
+HTML,.\notepad-plusplus_html\33348.html,0,0,673
+HTML,.\notepad-plusplus_html\5959.html,0,0,673
+XML,.\PowerEditor\installer\nativeLang\sardinian.xml,7,25,665
+XML,.\PowerEditor\installer\nativeLang\serbianCyrillic.xml,22,9,662
+XML,.\PowerEditor\installer\nativeLang\georgian.xml,21,9,662
+XML,.\PowerEditor\installer\nativeLang\lithuanian.xml,21,9,662
+XML,.\PowerEditor\installer\nativeLang\sinhala.xml,93,6,662
+HTML,.\notepad-plusplus_html\8787.html,0,0,645
+HTML,.\notepad-plusplus_html\42915.html,0,0,644
+C++,.\scintilla\src\CellBuffer.cxx,107,72,643
+HTML,.\notepad-plusplus_html\19971.html,0,0,641
+XML,.\PowerEditor\installer\nativeLang\tamil.xml,22,4,639
+XML,.\PowerEditor\installer\nativeLang\uyghur.xml,21,7,637
+HTML,.\notepad-plusplus_html\22324.html,0,0,634
+XML,.\PowerEditor\installer\APIs\html.xml,0,0,634
+HTML,.\notepad-plusplus_html\2135.html,0,0,632
+HTML,.\notepad-plusplus_html\17857.html,0,0,626
+HTML,.\notepad-plusplus_html\35221.html,0,0,624
+C++,.\PowerEditor\src\WinControls\DockingWnd\Gripper.cpp,130,136,619
+HTML,.\notepad-plusplus_html\7214.html,0,0,616
+C++,.\scintilla\src\PositionCache.cxx,64,25,614
+C++,.\scintilla\src\RESearch.cxx,62,284,614
+HTML,.\notepad-plusplus_html\4259.html,0,0,613
+C++,.\scintilla\qt\ScintillaEditBase\ScintillaQt.cpp,111,46,609
+HTML,.\notepad-plusplus_html\7962.html,0,0,600
+XML,.\PowerEditor\installer\themes\Ruby Blue.xml,10,30,592
+C++,.\scintilla\qt\ScintillaEditBase\ScintillaEditBase.cpp,123,48,591
+HTML,.\notepad-plusplus_html\25669.html,0,0,587
+HTML,.\notepad-plusplus_html\23023.html,0,0,584
+HTML,.\notepad-plusplus_html\20190.html,0,0,582
+XML,.\PowerEditor\installer\nativeLang\ligurian.xml,5,9,582
+HTML,.\notepad-plusplus_html\35609.html,0,0,581
+HTML,.\notepad-plusplus_html\21573.html,0,0,579
+HTML,.\notepad-plusplus_html\25186.html,0,0,578
+HTML,.\notepad-plusplus_html\20866.html,0,0,578
+XML,.\PowerEditor\installer\nativeLang\marathi.xml,23,8,577
+HTML,.\notepad-plusplus_html\37584.html,0,0,577
+XML,.\PowerEditor\installer\nativeLang\indonesian.xml,22,4,576
+HTML,.\notepad-plusplus_html\7512.html,0,0,576
+XML,.\PowerEditor\installer\nativeLang\thai.xml,28,3,575
+XML,.\PowerEditor\installer\nativeLang\telugu.xml,0,10,575
+XML,.\PowerEditor\installer\nativeLang\greek.xml,14,3,575
+XML,.\PowerEditor\installer\nativeLang\friulian.xml,22,3,575
+HTML,.\notepad-plusplus_html\35786.html,0,0,567
+XML,.\PowerEditor\installer\nativeLang\azerbaijani.xml,49,3,565
+XML,.\PowerEditor\installer\nativeLang\bosnian.xml,27,3,565
+XML,.\PowerEditor\installer\nativeLang\kyrgyz.xml,13,6,564
+HTML,.\notepad-plusplus_html\43101.html,0,0,559
+HTML,.\notepad-plusplus_html\18249.html,0,0,558
+C++,.\PowerEditor\src\WinControls\FunctionList\functionListPanel.cpp,105,42,557
+C++,.\scintilla\src\CaseConvert.cxx,33,45,556
+HTML,.\notepad-plusplus_html\22537.html,0,0,556
+C/C++ Header,.\PowerEditor\src\TinyXml\tinyXmlA\tinyxmlA.h,229,486,551
+HTML,.\notepad-plusplus_html\21333.html,0,0,550
+C++,.\PowerEditor\src\WinControls\SplitterContainer\Splitter.cpp,118,57,549
+C/C++ Header,.\PowerEditor\src\TinyXml\tinyxml.h,231,485,547
+HTML,.\notepad-plusplus_html\1195.html,0,0,547
+HTML,.\notepad-plusplus_html\4135.html,0,0,546
+HTML,.\notepad-plusplus_html\609.html,0,0,544
+HTML,.\scintilla\doc\ScintillaRelated.html,1,7,544
+HTML,.\notepad-plusplus_html\48053.html,0,0,536
+C/C++ Header,.\PowerEditor\src\rgba_icons.h,7,26,534
+HTML,.\notepad-plusplus_html\5793.html,0,0,532
+HTML,.\notepad-plusplus_html\51009.html,0,0,526
+HTML,.\notepad-plusplus_html\22854.html,0,0,525
+HTML,.\notepad-plusplus_html\8433.html,0,0,525
+HTML,.\notepad-plusplus_html\fileam.html,0,0,524
+HTML,.\notepad-plusplus_html\file_metrics.html,0,0,524
+C++,.\scintilla\lexers\LexNsis.cxx,93,47,522
+HTML,.\notepad-plusplus_html\42313.html,0,0,518
+XML,.\PowerEditor\installer\APIs\vb.xml,0,0,517
+XML,.\PowerEditor\installer\nativeLang\uzbek.xml,20,7,517
+XML,.\PowerEditor\installer\nativeLang\uzbekCyrillic.xml,20,7,517
+XML,.\PowerEditor\installer\nativeLang\kazakh.xml,18,7,517
+HTML,.\notepad-plusplus_html\52428.html,0,0,517
+C++,.\PowerEditor\src\WinControls\FunctionList\functionParser.cpp,114,46,517
+HTML,.\notepad-plusplus_html\21773.html,0,0,515
+C++,.\PowerEditor\src\WinControls\ProjectPanel\TreeView.cpp,106,62,514
+C/C++ Header,.\scintilla\src\Editor.h,69,39,513
+C++,.\scintilla\lexers\LexErlang.cxx,70,42,511
+HTML,.\notepad-plusplus_html\8326.html,0,0,508
+XML,.\PowerEditor\installer\nativeLang\norwegian.xml,27,8,507
+XML,.\PowerEditor\installer\nativeLang\tagalog.xml,26,6,507
+XML,.\PowerEditor\installer\nativeLang\afrikaans.xml,26,6,507
+HTML,.\notepad-plusplus_html\4517.html,0,0,506
+XML,.\PowerEditor\installer\nativeLang\macedonian.xml,24,8,506
+HTML,.\notepad-plusplus_html\7756.html,0,0,505
+HTML,.\notepad-plusplus_html\47143.html,0,0,504
+C++,.\scintilla\src\ViewStyle.cxx,72,18,499
+C++,.\scintilla\lexers\LexLaTeX.cxx,30,13,496
+HTML,.\notepad-plusplus_html\20487.html,0,0,493
+HTML,.\notepad-plusplus_html\39922.html,0,0,491
+C++,.\scintilla\lexers\LexD.cxx,46,33,489
+HTML,.\notepad-plusplus_html\4131.html,0,0,486
+C++,.\PowerEditor\src\MISC\PluginsManager\PluginsManager.cpp,102,46,485
+HTML,.\notepad-plusplus_html\1135.html,0,0,484
+C++,.\scintilla\lexers\LexCSS.cxx,39,45,483
+XML,.\PowerEditor\installer\APIs\lisp.xml,0,0,483
+HTML,.\notepad-plusplus_html\9003.html,0,0,481
+XML,.\PowerEditor\installer\nativeLang\luxembourgish.xml,0,7,481
+HTML,.\notepad-plusplus_html\25070.html,0,0,478
+C++,.\scintilla\lexers\LexBasic.cxx,54,37,475
+HTML,.\notepad-plusplus_html\24461.html,0,0,473
+XML,.\PowerEditor\installer\APIs\perl.xml,0,0,473
+C++,.\scintilla\src\PerLine.cxx,68,16,472
+HTML,.\notepad-plusplus_html\11775.html,0,0,472
+C/C++ Header,.\PowerEditor\src\Notepad_plus.h,135,57,470
+HTML,.\notepad-plusplus_html\45953.html,0,0,468
+HTML,.\notepad-plusplus_html\50194.html,0,0,467
+XML,.\PowerEditor\installer\nativeLang\occitan.xml,26,6,466
+C++,.\PowerEditor\src\ScitillaComponent\xmlMatchedTagsHighlighter.cpp,88,116,465
+C++,.\scintilla\lexers\LexECL.cxx,29,32,460
+HTML,.\notepad-plusplus_html\18470.html,0,0,459
+HTML,.\notepad-plusplus_html\classoom.html,0,0,458
+C++,.\PowerEditor\src\WinControls\ToolBar\ToolBar.cpp,71,41,458
+XML,.\PowerEditor\installer\nativeLang\malay.xml,32,11,457
+C++,.\PowerEditor\src\Utf8_16.cpp,65,55,456
+HTML,.\notepad-plusplus_html\classm.html,0,0,449
+C++,.\scintilla\lexers\LexVHDL.cxx,44,73,448
+C++,.\scintilla\lexers\LexFortran.cxx,7,59,448
+C++,.\scintilla\lexers\LexMySQL.cxx,49,77,447
+HTML,.\notepad-plusplus_html\37500.html,0,0,447
+C++,.\scintilla\lexers\LexPascal.cxx,64,105,446
+Python,.\scintilla\test\XiteWin.py,69,16,446
+C++,.\scintilla\lexers\LexPowerPro.cxx,90,96,444
+HTML,.\notepad-plusplus_html\42394.html,0,0,444
+C++,.\scintilla\lexers\LexCLW.cxx,60,179,443
+MSBuild script,.\PowerEditor\src\tools\NppShell\project\NppShell.vcproj,0,0,438
+C++,.\scintilla\lexers\LexVisualProlog.cxx,38,29,437
+C++,.\scintilla\lexers\LexAbaqus.cxx,67,102,436
+XML,.\PowerEditor\installer\nativeLang\galician.xml,22,12,435
+XML,.\PowerEditor\installer\nativeLang\extremaduran.xml,22,6,433
+C++,.\scintilla\lexers\LexPython.cxx,71,68,432
+C++,.\scintilla\lexers\LexOpal.cxx,66,27,432
+HTML,.\notepad-plusplus_html\52386.html,0,0,432
+HTML,.\notepad-plusplus_html\10047.html,0,0,430
+HTML,.\notepad-plusplus_html\18543.html,0,0,429
+HTML,.\notepad-plusplus_html\7385.html,0,0,427
+HTML,.\notepad-plusplus_html\8617.html,0,0,426
+HTML,.\notepad-plusplus_html\21065.html,0,0,423
+C/C++ Header,.\scintilla\src\Document.h,75,40,421
+XML,.\PowerEditor\installer\nativeLang\serbian.xml,21,6,419
+HTML,.\notepad-plusplus_html\37702.html,0,0,417
+C/C++ Header,.\PowerEditor\src\menuCmdID.h,50,68,417
+HTML,.\notepad-plusplus_html\41081.html,0,0,413
+HTML,.\notepad-plusplus_html\22741.html,0,0,411
+HTML,.\notepad-plusplus_html\30489.html,0,0,410
+HTML,.\notepad-plusplus_html\45799.html,0,0,409
+C++,.\PowerEditor\src\winmain.cpp,78,59,408
+C++,.\scintilla\boostregex\BoostRegExSearch.cxx,54,22,406
+XML,.\PowerEditor\installer\nativeLang\hebrew.xml,18,3,402
+C++,.\scintilla\src\MarginView.cxx,44,27,399
+C++,.\scintilla\lexers\LexAsm.cxx,46,23,398
+HTML,.\notepad-plusplus_html\16366.html,0,0,398
+C/C++ Header,.\scintilla\include\Platform.h,72,66,395
+HTML,.\notepad-plusplus_html\25456.html,0,0,392
+HTML,.\notepad-plusplus_html\47050.html,0,0,392
+HTML,.\notepad-plusplus_html\48125.html,0,0,392
+C++,.\scintilla\lexers\LexLua.cxx,23,30,383
+C/C++ Header,.\PowerEditor\src\ScitillaComponent\UserDefineDialog.h,39,39,383
+C++,.\PowerEditor\src\WinControls\DocumentMap\documentMap.cpp,82,84,381
+XML,.\PowerEditor\installer\APIs\xml.xml,0,0,381
+C++,.\scintilla\lexers\LexRegistry.cxx,20,16,380
+HTML,.\notepad-plusplus_html\49798.html,0,0,380
+C++,.\scintilla\lexers\LexOScript.cxx,50,119,379
+HTML,.\notepad-plusplus_html\986.html,0,0,376
+C++,.\scintilla\lexers\LexTeX.cxx,81,45,371
+C++,.\PowerEditor\src\ScitillaComponent\Printer.cpp,91,54,369
+HTML,.\scintilla\doc\ScintillaUsage.html,8,0,367
+HTML,.\notepad-plusplus_html\29282.html,0,0,366
+HTML,.\notepad-plusplus_html\15642.html,0,0,365
+HTML,.\notepad-plusplus_html\30162.html,0,0,365
+C++,.\scintilla\lexers\LexObjC.cxx,54,194,365
+Windows Resource File,.\PowerEditor\src\WinControls\Preference\preference.rc,20,26,363
+C++,.\scintilla\lexers\LexCmake.cxx,75,19,363
+XML,.\PowerEditor\installer\APIs\css.xml,0,0,362
+C/C++ Header,.\PowerEditor\src\ScitillaComponent\FindReplaceDlg.h,101,33,361
+C++,.\PowerEditor\src\WinControls\OpenSaveFileDialog\FileDialog.cpp,84,50,360
+HTML,.\notepad-plusplus_html\1047.html,0,0,360
+C++,.\scintilla\lexers\LexAda.cxx,104,51,360
+C++,.\PowerEditor\src\ScitillaComponent\FunctionCallTip.cpp,53,51,358
+HTML,.\notepad-plusplus_html\29145.html,0,0,358
+HTML,.\notepad-plusplus_html\36590.html,0,0,357
+C++,.\scintilla\lexers\LexTxt2tags.cxx,28,95,357
+C++,.\scintilla\lexers\LexSTTXT.cxx,41,9,356
+XML,.\PowerEditor\installer\nativeLang\belarusian.xml,18,3,354
+C++,.\PowerEditor\src\uchardet\nsMBCSSM.cpp,46,107,354
+XML,.\PowerEditor\installer\nativeLang\aranese.xml,18,3,354
+C++,.\PowerEditor\src\WinControls\WindowsDlg\WinMgr.cpp,50,91,352
+HTML,.\notepad-plusplus_html\10727.html,0,0,352
+C++,.\scintilla\src\Selection.cxx,55,12,351
+HTML,.\notepad-plusplus_html\29196.html,0,0,345
+C++,.\scintilla\lexers\LexNimrod.cxx,41,47,345
+HTML,.\notepad-plusplus_html\51078.html,0,0,345
+HTML,.\notepad-plusplus_html\21450.html,0,0,344
+C++,.\scintilla\lexers\LexScriptol.cxx,31,9,341
+C++,.\scintilla\lexers\LexTACL.cxx,42,17,341
+C++,.\scintilla\lexers\LexTAL.cxx,42,17,340
+CMake,.\PowerEditor\src\CMakeLists.txt,15,9,339
+HTML,.\notepad-plusplus_html\26982.html,0,0,337
+HTML,.\notepad-plusplus_html\30075.html,0,0,337
+HTML,.\notepad-plusplus_html\28250.html,0,0,336
+HTML,.\notepad-plusplus_html\52141.html,0,0,335
+C++,.\scintilla\lexers\LexTCL.cxx,21,14,334
+C++,.\scintilla\src\LineMarker.cxx,55,11,332
+HTML,.\notepad-plusplus_html\40376.html,0,0,332
+C++,.\scintilla\lexers\LexCaml.cxx,44,82,330
+HTML,.\notepad-plusplus_html\19582.html,0,0,330
+HTML,.\notepad-plusplus_html\2266.html,0,0,330
+HTML,.\notepad-plusplus_html\40040.html,0,0,328
+HTML,.\notepad-plusplus_html\14779.html,0,0,326
+C++,.\scintilla\lexers\LexTCMD.cxx,74,107,325
+HTML,.\notepad-plusplus_html\25345.html,0,0,325
+HTML,.\notepad-plusplus_html\6308.html,0,0,324
+HTML,.\notepad-plusplus_html\28381.html,0,0,323
+C++,.\scintilla\lexers\LexCOBOL.cxx,38,20,323
+C++,.\scintilla\lexers\LexCoffeeScript.cxx,44,48,323
+HTML,.\notepad-plusplus_html\47304.html,0,0,322
+HTML,.\notepad-plusplus_html\41197.html,0,0,322
+HTML,.\notepad-plusplus_html\43359.html,0,0,321
+C++,.\PowerEditor\src\MISC\RegExt\regExtDlg.cpp,59,35,318
+HTML,.\notepad-plusplus_html\33783.html,0,0,315
+C++,.\scintilla\lexers\LexFlagship.cxx,21,18,315
+HTML,.\notepad-plusplus_html\19167.html,0,0,314
+HTML,.\notepad-plusplus_html\16150.html,0,0,312
+HTML,.\notepad-plusplus_html\30459.html,0,0,312
+HTML,.\notepad-plusplus_html\15016.html,0,0,311
+XML,.\PowerEditor\src\functionList.xml,23,49,310
+HTML,.\notepad-plusplus_html\8723.html,0,0,308
+HTML,.\notepad-plusplus_html\3843.html,0,0,305
+HTML,.\notepad-plusplus_html\6975.html,0,0,305
+C/C++ Header,.\PowerEditor\src\WinControls\shortcut\shortcut.h,51,32,304
+HTML,.\notepad-plusplus_html\51272.html,0,0,304
+HTML,.\notepad-plusplus_html\19120.html,0,0,303
+C++,.\scintilla\lexers\LexPB.cxx,22,40,303
+HTML,.\notepad-plusplus_html\19045.html,0,0,303
+HTML,.\notepad-plusplus_html\1187.html,0,0,302
+HTML,.\notepad-plusplus_html\8941.html,0,0,301
+C++,.\scintilla\lexers\LexMarkdown.cxx,19,102,300
+C++,.\scintilla\lexers\LexMetapost.cxx,61,42,299
+HTML,.\notepad-plusplus_html\2646.html,0,0,299
+HTML,.\notepad-plusplus_html\43211.html,0,0,299
+C++,.\scintilla\lexers\LexMSSQL.cxx,33,24,297
+C++,.\scintilla\lexers\LexMagik.cxx,61,90,297
+C++,.\PowerEditor\src\WinControls\VerticalFileSwitcher\VerticalFileSwitcherListView.cpp,56,29,296
+HTML,.\notepad-plusplus_html\47251.html,0,0,296
+HTML,.\notepad-plusplus_html\33315.html,0,0,295
+HTML,.\notepad-plusplus_html\38351.html,0,0,294
+HTML,.\notepad-plusplus_html\25603.html,0,0,293
+C++,.\scintilla\lexers\LexPS.cxx,24,16,293
+HTML,.\notepad-plusplus_html\40327.html,0,0,291
+C/C++ Header,.\PowerEditor\src\resource.h,81,105,289
+C++,.\PowerEditor\src\uchardet\LangCyrillicModel.cpp,17,44,288
+HTML,.\notepad-plusplus_html\1066.html,0,0,287
+Objective C++,.\scintilla\cocoa\InfoBar.mm,76,86,286
+C++,.\scintilla\lexers\LexDMIS.cxx,63,7,285
+HTML,.\notepad-plusplus_html\10726.html,0,0,282
+C/C++ Header,.\PowerEditor\src\WinControls\Preference\preference_rc.h,28,31,282
+HTML,.\notepad-plusplus_html\42336.html,0,0,282
+HTML,.\notepad-plusplus_html\52307.html,0,0,281
+HTML,.\notepad-plusplus_html\9530.html,0,0,281
+C++,.\PowerEditor\src\WinControls\StaticDialog\RunDlg\RunDlg.cpp,37,19,278
+HTML,.\notepad-plusplus_html\15125.html,0,0,277
+HTML,.\notepad-plusplus_html\2374.html,0,0,276
+HTML,.\notepad-plusplus_html\45167.html,0,0,274
+C/C++ Header,.\PowerEditor\src\ScitillaComponent\Buffer.h,92,54,273
+HTML,.\notepad-plusplus_html\35898.html,0,0,271
+Windows Resource File,.\PowerEditor\src\ScitillaComponent\UserDefineDialog.rc,12,26,271
+HTML,.\notepad-plusplus_html\19243.html,0,0,270
+C++,.\scintilla\src\CallTip.cxx,35,30,269
+Python,.\scintilla\qt\ScintillaEditPy\sepbuild.py,45,29,266
+C++,.\scintilla\lexers\LexPOV.cxx,22,32,265
+C++,.\scintilla\test\unit\testRunStyles.cxx,52,5,264
+XML,.\PowerEditor\src\langs.model.xml,0,12,262
+HTML,.\notepad-plusplus_html\60.html,0,0,261
+C++,.\scintilla\src\UniConversion.cxx,18,32,261
+C++,.\scintilla\lexers\LexRebol.cxx,30,34,261
+HTML,.\notepad-plusplus_html\21962.html,0,0,259
+HTML,.\notepad-plusplus_html\14712.html,0,0,259
+HTML,.\scintilla\doc\SciCoding.html,1,0,258
+HTML,.\notepad-plusplus_html\23120.html,0,0,256
+C/C++ Header,.\PowerEditor\src\ScitillaComponent\UserDefineResource.h,32,26,255
+C++,.\scintilla\lexers\LexLisp.cxx,22,8,255
+C++,.\scintilla\lexers\LexVB.cxx,31,34,254
+C++,.\PowerEditor\src\ScitillaComponent\columnEditor.cpp,38,32,254
+HTML,.\notepad-plusplus_html\39916.html,0,0,254
+HTML,.\notepad-plusplus_html\35196.html,0,0,253
+HTML,.\notepad-plusplus_html\10729.html,0,0,253
+HTML,.\notepad-plusplus_html\4108.html,0,0,253
+HTML,.\notepad-plusplus_html\40943.html,0,0,253
+HTML,.\notepad-plusplus_html\17501.html,0,0,252
+C++,.\scintilla\src\AutoComplete.cxx,31,12,251
+C++,.\scintilla\lexers\LexSmalltalk.cxx,34,43,249
+HTML,.\notepad-plusplus_html\50188.html,0,0,249
+C++,.\scintilla\lexers\LexKVIrc.cxx,85,140,248
+HTML,.\notepad-plusplus_html\9215.html,0,0,248
+HTML,.\notepad-plusplus_html\22169.html,0,0,248
+HTML,.\scintilla\doc\Design.html,1,0,248
+C++,.\PowerEditor\src\WinControls\SplitterContainer\SplitterContainer.cpp,49,29,248
+HTML,.\notepad-plusplus_html\3288.html,0,0,247
+C++,.\scintilla\lexers\LexSpecman.cxx,24,22,246
+HTML,.\notepad-plusplus_html\15189.html,0,0,245
+C++,.\scintilla\src\ContractionState.cxx,29,10,245
+HTML,.\notepad-plusplus_html\22134.html,0,0,244
+C++,.\scintilla\lexers\LexAVS.cxx,28,21,244
+C++,.\scintilla\src\XPM.cxx,33,26,244
+C++,.\scintilla\src\RunStyles.cxx,27,17,244
+C++,.\scintilla\lexers\LexYAML.cxx,39,35,243
+XML,.\PowerEditor\installer\APIs\nsis.xml,0,0,243
+HTML,.\notepad-plusplus_html\29024.html,0,0,242
+HTML,.\notepad-plusplus_html\15376.html,0,0,242
+HTML,.\notepad-plusplus_html\20400.html,0,0,242
+HTML,.\notepad-plusplus_html\1190.html,0,0,242
+HTML,.\notepad-plusplus_html\39878.html,0,0,241
+HTML,.\notepad-plusplus_html\39364.html,0,0,239
+C++,.\scintilla\lexers\LexMatlab.cxx,38,37,239
+HTML,.\notepad-plusplus_html\49443.html,0,0,239
+HTML,.\notepad-plusplus_html\33934.html,0,0,239
+HTML,.\notepad-plusplus_html\9151.html,0,0,238
+C++,.\scintilla\lexers\LexASY.cxx,28,6,237
+HTML,.\notepad-plusplus_html\2342.html,0,0,237
+C++,.\PowerEditor\src\lastRecentFileList.cpp,42,34,235
+HTML,.\notepad-plusplus_html\44536.html,0,0,235
+XML,.\PowerEditor\installer\nativeLang\urdu.xml,43,3,234
+HTML,.\notepad-plusplus_html\30340.html,0,0,234
+XML,.\PowerEditor\installer\nativeLang\arabic.xml,43,3,234
+C++,.\scintilla\lexers\LexGui4Cli.cxx,50,29,233
+HTML,.\notepad-plusplus_html\40917.html,0,0,233
+XML,.\PowerEditor\installer\APIs\cs.xml,0,0,233
+HTML,.\notepad-plusplus_html\25536.html,0,0,231
+C++,.\scintilla\qt\ScintillaEdit\ScintillaDocument.cpp,69,4,231
+C++,.\scintilla\lexers\LexInno.cxx,36,24,230
+Python,.\scintilla\qt\ScintillaEdit\WidgetGen.py,21,11,229
+HTML,.\notepad-plusplus_html\11608.html,0,0,228
+HTML,.\notepad-plusplus_html\19329.html,0,0,227
+C++,.\scintilla\lexers\LexProgress.cxx,23,32,227
+C++,.\PowerEditor\src\WinControls\ClipboardHistory\clipboardHistoryPanel.cpp,37,30,227
+HTML,.\notepad-plusplus_html\41276.html,0,0,226
+HTML,.\notepad-plusplus_html\15068.html,0,0,225
+HTML,.\notepad-plusplus_html\3014.html,0,0,225
+HTML,.\notepad-plusplus_html\41238.html,0,0,224
+C/C++ Header,.\scintilla\src\SplitVector.h,28,39,224
+MSBuild script,.\PowerEditor\src\tools\xmlUpdater\xmlUpdater.vcproj,0,0,224
+HTML,.\notepad-plusplus_html\47716.html,0,0,224
+DOS Batch,.\PowerEditor\installer\packageAll.bat,52,36,221
+HTML,.\notepad-plusplus_html\7127.html,0,0,220
+C++,.\scintilla\lexers\LexGAP.cxx,33,13,220
+C/C++ Header,.\scintilla\lexlib\StyleContext.h,15,16,219
+HTML,.\notepad-plusplus_html\45072.html,0,0,219
+XML,.\PowerEditor\installer\APIs\cmake.xml,1,0,218
+DOS Batch,.\scintilla\boostregex\BuildBoost.bat,47,3,217
+HTML,.\notepad-plusplus_html\30875.html,0,0,217
+HTML,.\notepad-plusplus_html\11774.html,0,0,217
+HTML,.\notepad-plusplus_html\28125.html,0,0,215
+C++,.\PowerEditor\src\Notepad_plus_Window.cpp,59,41,215
+HTML,.\notepad-plusplus_html\42861.html,0,0,215
+HTML,.\notepad-plusplus_html\58.html,0,0,215
+C++,.\scintilla\lexers\LexPowerShell.cxx,17,17,214
+HTML,.\notepad-plusplus_html\28936.html,0,0,213
+HTML,.\notepad-plusplus_html\28495.html,0,0,212
+HTML,.\notepad-plusplus_html\2131.html,0,0,212
+C++,.\scintilla\lexers\LexEScript.cxx,42,23,211
+Markdown,.\CONTRIBUTING.md,82,0,211
+HTML,.\notepad-plusplus_html\2129.html,0,0,210
+HTML,.\notepad-plusplus_html\3718.html,0,0,209
+HTML,.\notepad-plusplus_html\1188.html,0,0,209
+C++,.\scintilla\lexers\LexAPDL.cxx,22,29,208
+HTML,.\notepad-plusplus_html\16310.html,0,0,207
+HTML,.\notepad-plusplus_html\6562.html,0,0,207
+C++,.\scintilla\lexers\LexEiffel.cxx,22,13,206
+HTML,.\notepad-plusplus_html\18432.html,0,0,205
+HTML,.\notepad-plusplus_html\2130.html,0,0,204
+HTML,.\notepad-plusplus_html\14421.html,0,0,204
+HTML,.\notepad-plusplus_html\37053.html,0,0,203
+HTML,.\notepad-plusplus_html\16106.html,0,0,203
+HTML,.\notepad-plusplus_html\20087.html,0,0,202
+C/C++ Header,.\PowerEditor\src\WinControls\Preference\preferenceDlg.h,42,27,202
+C++,.\PowerEditor\src\uchardet\nsEscSM.cpp,23,36,201
+HTML,.\notepad-plusplus_html\5752.html,0,0,200
+C++,.\PowerEditor\src\uchardet\nsUniversalDetector.cpp,27,53,200
+C/C++ Header,.\PowerEditor\src\MISC\Common\Sorters.h,28,43,199
+C++,.\PowerEditor\src\WinControls\TaskList\TaskList.cpp,36,48,199
+HTML,.\notepad-plusplus_html\8286.html,0,0,199
+C++,.\scintilla\lexlib\WordList.cxx,22,23,197
+C/C++ Header,.\PowerEditor\src\WinControls\TabBar\TabBar.h,61,30,197
+C++,.\scintilla\lexers\LexBullant.cxx,17,19,197
+C++,.\PowerEditor\src\WinControls\AboutDlg\URLCtrl.cpp,47,57,196
+C++,.\scintilla\lexers\LexBibTeX.cxx,61,53,196
+HTML,.\notepad-plusplus_html\2648.html,0,0,195
+C++,.\scintilla\lexers\LexA68k.cxx,62,90,195
+HTML,.\notepad-plusplus_html\25782.html,0,0,193
+C++,.\PowerEditor\src\WinControls\VerticalFileSwitcher\VerticalFileSwitcher.cpp,39,38,193
+HTML,.\notepad-plusplus_html\24907.html,0,0,193
+HTML,.\notepad-plusplus_html\52114.html,0,0,192
+HTML,.\notepad-plusplus_html\45110.html,0,0,191
+make,.\PowerEditor\gcc\makefile,42,43,191
+C++,.\scintilla\lexers\LexSML.cxx,25,7,191
+C++,.\scintilla\lexers\LexAVE.cxx,23,18,190
+HTML,.\notepad-plusplus_html\26653.html,0,0,190
+HTML,.\notepad-plusplus_html\22429.html,0,0,190
+Objective C++,.\scintilla\cocoa\ScintillaTest\AppController.mm,49,43,190
+HTML,.\notepad-plusplus_html\42485.html,0,0,190
+HTML,.\notepad-plusplus_html\25288.html,0,0,189
+HTML,.\notepad-plusplus_html\65.html,0,0,189
+HTML,.\notepad-plusplus_html\5579.html,0,0,189
+MSBuild script,.\PowerEditor\src\tools\ChangeIcon\ChangeIcon.vcproj,0,0,188
+HTML,.\notepad-plusplus_html\4005.html,0,0,188
+HTML,.\notepad-plusplus_html\61.html,0,0,188
+HTML,.\notepad-plusplus_html\18433.html,0,0,187
+C++,.\PowerEditor\src\tools\ChangeIcon\ChangeIcon.cpp,36,41,186
+C++,.\scintilla\test\unit\testSparseState.cxx,39,3,186
+HTML,.\notepad-plusplus_html\2134.html,0,0,185
+C++,.\PowerEditor\src\uchardet\LangGreekModel.cpp,9,49,184
+C++,.\PowerEditor\src\uchardet\LangBulgarianModel.cpp,8,51,184
+C++,.\scintilla\lexers\LexDMAP.cxx,3,41,184
+C/C++ Header,.\PowerEditor\src\WinControls\WindowsDlg\WinMgr.h,50,63,184
+HTML,.\notepad-plusplus_html\19450.html,0,0,184
+C++,.\PowerEditor\src\WinControls\ColourPicker\ColourPopup.cpp,30,33,182
+HTML,.\notepad-plusplus_html\15744.html,0,0,182
+C++,.\PowerEditor\src\uchardet\LangHungarianModel.cpp,7,49,182
+HTML,.\notepad-plusplus_html\8754.html,0,0,182
+HTML,.\notepad-plusplus_html\2118.html,0,0,182
+C/C++ Header,.\scintilla\cocoa\ScintillaCocoa.h,42,25,181
+HTML,.\notepad-plusplus_html\11612.html,0,0,181
+C++,.\PowerEditor\src\MISC\Process\ProcessAvecThread\Process.cpp,48,36,181
+C++,.\scintilla\lexers\LexLout.cxx,23,12,180
+C++,.\scintilla\lexers\LexCsound.cxx,21,13,180
+XML,.\PowerEditor\installer\nativeLang\samogitian.xml,44,4,180
+C/C++ Header,.\PowerEditor\src\MISC\PluginsManager\Notepad_plus_msgs.h,119,304,179
+C++,.\PowerEditor\src\TinyXml\tinyXmlA\tinystrA.cpp,51,72,178
+HTML,.\notepad-plusplus_html\11655.html,0,0,178
+HTML,.\notepad-plusplus_html\4054.html,0,0,177
+HTML,.\notepad-plusplus_html\9216.html,0,0,177
+C++,.\PowerEditor\src\TinyXml\tinystr.cpp,49,66,177
+C++,.\scintilla\lexers\LexPLM.cxx,21,4,176
+C/C++ Header,.\scintilla\lexlib\LexAccessor.h,11,17,176
+C++,.\scintilla\lexers\LexR.cxx,23,17,176
+HTML,.\notepad-plusplus_html\21168.html,0,0,175
+HTML,.\notepad-plusplus_html\4004.html,0,0,175
+C++,.\PowerEditor\src\uchardet\nsMBCSGroupProber.cpp,18,39,174
+C++,.\scintilla\src\Catalogue.cxx,16,13,173
+C++,.\PowerEditor\src\tools\NppShell\src\Bitmap.cpp,58,71,172
+HTML,.\notepad-plusplus_html\860.html,0,0,171
+C++,.\PowerEditor\src\WinControls\AnsiCharPanel\ListView.cpp,28,28,171
+C/C++ Header,.\scintilla\src\Selection.h,10,12,171
+HTML,.\notepad-plusplus_html\7639.html,0,0,171
+C++,.\scintilla\test\unit\testSplitVector.cxx,30,14,170
+C/C++ Header,.\PowerEditor\src\WinControls\ColourPicker\WordStyleDlg.h,45,27,170
+HTML,.\notepad-plusplus_html\14606.html,0,0,170
+HTML,.\scintilla\doc\index.html,1,14,169
+C++,.\PowerEditor\src\uchardet\JpCntx.cpp,14,48,168
+HTML,.\notepad-plusplus_html\18842.html,0,0,168
+HTML,.\notepad-plusplus_html\8708.html,0,0,167
+HTML,.\notepad-plusplus_html\14179.html,0,0,167
+C++,.\scintilla\lexers\LexBaan.cxx,16,13,167
+HTML,.\notepad-plusplus_html\19499.html,0,0,167
+HTML,.\notepad-plusplus_html\38329.html,0,0,167
+C++,.\scintilla\src\Decoration.cxx,25,5,166
+C++,.\PowerEditor\src\WinControls\StaticDialog\StaticDialog.cpp,30,33,165
+C++,.\scintilla\lexers\LexCrontab.cxx,17,44,165
+Python,.\scintilla\scripts\ScintillaData.py,19,41,165
+C/C++ Header,.\scintilla\src\PositionCache.h,18,19,164
+C++,.\scintilla\lexers\LexPO.cxx,27,22,164
+C/C++ Header,.\scintilla\src\ViewStyle.h,19,17,163
+SQL,.\scintilla\cocoa\ScintillaTest\TestData.sql,36,16,163
+C++,.\PowerEditor\src\tools\xmlUpdater\xmlUpdater.cpp,46,137,163
+C++,.\scintilla\lexers\LexSpice.cxx,20,26,160
+C++,.\scintilla\lexers\LexMMIXAL.cxx,17,12,160
+MSBuild script,.\PowerEditor\src\tools\xmlApiSorter\sorter.vcproj,0,0,160
+C++,.\scintilla\src\Indicator.cxx,8,13,159
+HTML,.\notepad-plusplus_html\unusedtype.html,41,0,159
+HTML,.\notepad-plusplus_html\3722.html,0,0,159
+C++,.\PowerEditor\src\ScitillaComponent\DocTabView.cpp,41,32,158
+C++,.\PowerEditor\src\uchardet\LangThaiModel.cpp,12,50,158
+C++,.\PowerEditor\src\uchardet\LangHebrewModel.cpp,8,52,157
+HTML,.\notepad-plusplus_html\2692.html,0,0,157
+HTML,.\notepad-plusplus_html\42850.html,0,0,156
+HTML,.\notepad-plusplus_html\18250.html,0,0,156
+C++,.\PowerEditor\src\WinControls\DockingWnd\DockingSplitter.cpp,28,30,155
+C/C++ Header,.\PowerEditor\src\keys.h,21,30,155
+C/C++ Header,.\scintilla\src\CellBuffer.h,41,35,155
+HTML,.\notepad-plusplus_html\63.html,0,0,153
+HTML,.\notepad-plusplus_html\51260.html,0,0,153
+C/C++ Header,.\scintilla\src\Partitioning.h,22,24,152
+HTML,.\notepad-plusplus_html\14210.html,0,0,151
+HTML,.\notepad-plusplus_html\26593.html,0,0,151
+HTML,.\notepad-plusplus_html\50771.html,0,0,151
+HTML,.\notepad-plusplus_html\4107.html,0,0,151
+HTML,.\notepad-plusplus_html\25433.html,0,0,150
+C++,.\PowerEditor\src\uchardet\nsSBCSGroupProber.cpp,22,53,149
+HTML,.\notepad-plusplus_html\4623.html,0,0,149
+HTML,.\notepad-plusplus_html\2647.html,0,0,149
+HTML,.\notepad-plusplus_html\22993.html,0,0,147
+HTML,.\notepad-plusplus_html\1191.html,0,0,147
+HTML,.\notepad-plusplus_html\39317.html,0,0,146
+C++,.\scintilla\test\unit\testPartitioning.cxx,31,5,146
+HTML,.\notepad-plusplus_html\14479.html,0,0,145
+C/C++ Header,.\PowerEditor\src\WinControls\DockingWnd\DockingCont.h,47,45,145
+C/C++ Header,.\scintilla\lexlib\SubStyles.h,28,6,144
+C/C++ Header,.\scintilla\lexlib\CharacterSet.h,21,12,144
+C++,.\PowerEditor\src\WinControls\AboutDlg\AboutDlg.cpp,39,39,144
+C++,.\PowerEditor\src\tools\xmlApiSorter\sorter.cpp,32,29,143
+HTML,.\notepad-plusplus_html\10833.html,0,0,143
+HTML,.\notepad-plusplus_html\701.html,0,0,142
+HTML,.\notepad-plusplus_html\1048.html,0,0,141
+HTML,.\notepad-plusplus_html\43265.html,0,0,140
+C++,.\scintilla\src\Style.cxx,20,7,140
+HTML,.\notepad-plusplus_html\3249.html,0,0,140
+Python,.\scintilla\test\ScintillaCallable.py,13,7,139
+HTML,.\notepad-plusplus_html\9213.html,0,0,139
+HTML,.\notepad-plusplus_html\26592.html,0,0,138
+HTML,.\notepad-plusplus_html\16070.html,0,0,138
+C++,.\PowerEditor\src\WinControls\TaskList\TaskListDlg.cpp,38,33,138
+C++,.\scintilla\lexers\LexForth.cxx,18,15,137
+HTML,.\notepad-plusplus_html\30415.html,0,0,136
+HTML,.\notepad-plusplus_html\3567.html,0,0,135
+HTML,.\notepad-plusplus_html\2627.html,0,0,135
+C++,.\scintilla\src\KeyMap.cxx,17,8,135
+C++,.\PowerEditor\src\WinControls\ColourPicker\ColourPicker.cpp,29,28,135
+HTML,.\notepad-plusplus_html\29534.html,0,0,134
+HTML,.\notepad-plusplus_html\2590.html,0,0,133
+C++,.\scintilla\lexers\LexSorcus.cxx,60,15,133
+C/C++ Header,.\scintilla\qt\ScintillaEditBase\ScintillaQt.h,27,11,133
+C/C++ Header,.\PowerEditor\src\TinyXml\tinystr.h,41,63,132
+C/C++ Header,.\PowerEditor\src\TinyXml\tinyXmlA\tinystrA.h,42,63,132
+HTML,.\notepad-plusplus_html\15321.html,0,0,132
+C++,.\scintilla\lexers\LexConf.cxx,21,40,131
+C/C++ Header,.\scintilla\boostregex\UTF8DocumentIterator.h,20,5,131
+make,.\scintilla\win32\makefile,30,10,131
+C++,.\scintilla\lexers\LexAsn1.cxx,17,40,131
+C++,.\PowerEditor\src\WinControls\FindCharsInRange\FindCharsInRange.cpp,15,28,130
+HTML,.\scintilla\doc\Steps.html,13,0,129
+HTML,.\notepad-plusplus_html\11703.html,0,0,129
+C++,.\scintilla\lexers\LexMPT.cxx,30,34,129
+Python,.\scintilla\qt\ScintillaEditPy\testsepq.py,20,9,128
+C/C++ Header,.\PowerEditor\src\uchardet\CharDistribution.h,33,81,128
+HTML,.\notepad-plusplus_html\25540.html,0,0,128
+HTML,.\notepad-plusplus_html\47715.html,0,0,127
+HTML,.\scintilla\doc\ScintillaToDo.html,0,0,127
+HTML,.\notepad-plusplus_html\22977.html,0,0,127
+HTML,.\notepad-plusplus_html\7123.html,0,0,127
+C/C++ Header,.\PowerEditor\src\MISC\Common\Common.h,31,27,126
+HTML,.\notepad-plusplus_html\14609.html,0,0,125
+C/C++ Header,.\scintilla\lexlib\OptionSet.h,9,8,125
+C++,.\scintilla\lexers\LexSearchResult.cxx,32,22,125
+HTML,.\notepad-plusplus_html\14780.html,0,0,125
+HTML,.\notepad-plusplus_html\5960.html,0,0,124
+HTML,.\notepad-plusplus_html\3844.html,0,0,123
+C/C++ Header,.\scintilla\src\EditView.h,25,26,123
+HTML,.\notepad-plusplus_html\4003.html,0,0,123
+C++,.\PowerEditor\src\lesDlgs.cpp,28,29,122
+HTML,.\notepad-plusplus_html\41047.html,0,0,122
+C++,.\scintilla\src\ExternalLexer.cxx,32,37,122
+HTML,.\notepad-plusplus_html\28453.html,0,0,122
+HTML,.\notepad-plusplus_html\24062.html,0,0,122
+HTML,.\notepad-plusplus_html\64.html,0,0,121
+HTML,.\notepad-plusplus_html\19412.html,0,0,120
+HTML,.\notepad-plusplus_html\33460.html,0,0,120
+HTML,.\notepad-plusplus_html\33784.html,0,0,120
+HTML,.\notepad-plusplus_html\31586.html,0,0,120
+C++,.\PowerEditor\src\EncodingMapper.cpp,10,27,119
+HTML,.\notepad-plusplus_html\3621.html,0,0,119
+C/C++ Header,.\scintilla\cocoa\ScintillaView.h,44,41,119
+C++,.\scintilla\test\unit\testCellBuffer.cxx,20,2,118
+HTML,.\notepad-plusplus_html\7931.html,0,0,118
+HTML,.\notepad-plusplus_html\4106.html,0,0,118
+C/C++ Header,.\PowerEditor\src\WinControls\ToolBar\ToolBar.h,35,26,117
+HTML,.\notepad-plusplus_html\14402.html,0,0,117
+HTML,.\notepad-plusplus_html\16257.html,0,0,116
+C++,.\scintilla\lexlib\PropSetSimple.cxx,27,13,116
+C++,.\PowerEditor\src\uchardet\nsLatin1Prober.cpp,21,45,116
+C/C++ Header,.\PowerEditor\src\WinControls\FileBrowser\fileBrowser.h,37,45,116
+C/C++ Header,.\PowerEditor\src\Utf8_16.h,22,26,116
+C/C++ Header,.\PowerEditor\src\WinControls\ProjectPanel\ProjectPanel.h,29,27,115
+HTML,.\notepad-plusplus_html\2136.html,0,0,115
+C++,.\PowerEditor\src\ScitillaComponent\SmartHighlighter.cpp,26,39,114
+HTML,.\notepad-plusplus_html\45926.html,0,0,112
+C/C++ Header,.\scintilla\qt\ScintillaEditBase\ScintillaEditBase.h,26,18,112
+C/C++ Header,.\PowerEditor\src\MISC\PluginsManager\PluginsManager.h,33,27,111
+HTML,.\notepad-plusplus_html\9498.html,0,0,111
+Python,.\scintilla\test\performanceTests.py,13,1,111
+C++,.\scintilla\test\unit\testContractionState.cxx,27,2,111
+Python,.\scintilla\scripts\FileGenerator.py,12,36,110
+HTML,.\notepad-plusplus_html\28201.html,0,0,110
+HTML,.\notepad-plusplus_html\40342.html,0,0,110
+HTML,.\notepad-plusplus_html\4133.html,0,0,110
+HTML,.\notepad-plusplus_html\2376.html,0,0,109
+HTML,.\notepad-plusplus_html\54.html,0,0,109
+HTML,.\notepad-plusplus_html\30933.html,0,0,108
+HTML,.\notepad-plusplus_html\7350.html,0,0,108
+HTML,.\notepad-plusplus_html\24643.html,0,0,108
+C++,.\PowerEditor\src\UniConversion.cpp,16,12,107
+HTML,.\notepad-plusplus_html\52300.html,0,0,107
+HTML,.\notepad-plusplus_html\2128.html,0,0,106
+C++,.\scintilla\lexers\LexKix.cxx,18,12,106
+HTML,.\notepad-plusplus_html\15377.html,0,0,106
+Qt Project,.\scintilla\qt\ScintillaEditBase\ScintillaEditBase.pro,10,5,106
+HTML,.\notepad-plusplus_html\2126.html,0,0,105
+HTML,.\notepad-plusplus_html\17160.html,0,0,105
+Python,.\scintilla\scripts\Face.py,8,4,105
+C++,.\scintilla\test\unit\testCharClassify.cxx,13,3,105
+C++,.\PowerEditor\src\MISC\Common\mutex.cpp,25,51,105
+C/C++ Header,.\PowerEditor\src\WinControls\FunctionList\functionParser.h,29,26,105
+HTML,.\notepad-plusplus_html\3678.html,0,0,104
+C/C++ Header,.\scintilla\src\PerLine.h,18,14,104
+HTML,.\notepad-plusplus_html\2123.html,0,0,104
+C++,.\scintilla\win32\HanjaDic.cxx,16,9,104
+HTML,.\notepad-plusplus_html\9465.html,0,0,103
+HTML,.\notepad-plusplus_html\850.html,0,0,103
+C++,.\PowerEditor\src\ScitillaComponent\GoToLineDlg.cpp,13,26,103
+HTML,.\notepad-plusplus_html\11758.html,0,0,103
+HTML,.\notepad-plusplus_html\20089.html,0,0,103
+HTML,.\notepad-plusplus_html\3622.html,0,0,103
+HTML,.\notepad-plusplus_html\14992.html,0,0,102
+HTML,.\notepad-plusplus_html\2127.html,0,0,102
+C/C++ Header,.\scintilla\qt\ScintillaEditBase\PlatQt.h,21,9,102
+HTML,.\notepad-plusplus_html\2982.html,0,0,102
+C/C++ Header,.\PowerEditor\src\WinControls\Grid\BabyGridWrapper.h,32,26,101
+Windows Resource File,.\PowerEditor\src\ScitillaComponent\FindReplaceDlg.rc,9,26,101
+HTML,.\notepad-plusplus_html\14546.html,0,0,101
+HTML,.\notepad-plusplus_html\52367.html,0,0,100
+C/C++ Header,.\PowerEditor\src\WinControls\ProjectPanel\TreeView.h,18,28,100
+HTML,.\notepad-plusplus_html\14114.html,0,0,100
+HTML,.\notepad-plusplus_html\22226.html,0,0,100
+Python,.\scintilla\test\lexTests.py,20,6,100
+C++,.\PowerEditor\src\WinControls\ReadDirectoryChanges\ReadDirectoryChangesPrivate.cpp,33,46,99
+HTML,.\notepad-plusplus_html\18395.html,0,0,99
+C++,.\PowerEditor\src\WinControls\AnsiCharPanel\ansiCharPanel.cpp,15,26,98
+HTML,.\notepad-plusplus_html\8752.html,0,0,98
+HTML,.\notepad-plusplus_html\49225.html,0,0,98
+HTML,.\notepad-plusplus_html\33729.html,0,0,97
+HTML,.\notepad-plusplus_html\810.html,0,0,97
+HTML,.\notepad-plusplus_html\7128.html,0,0,96
+C++,.\PowerEditor\src\WinControls\StatusBar\StatusBar.cpp,38,32,96
+C/C++ Header,.\PowerEditor\src\WinControls\DockingWnd\Gripper.h,32,38,96
+C/C++ Header,.\PowerEditor\src\WinControls\DockingWnd\DockingDlgInterface.h,23,29,96
+HTML,.\notepad-plusplus_html\1.html,0,0,96
+XML,.\PowerEditor\installer\APIs\vhdl.xml,0,0,95
+C++,.\PowerEditor\src\WinControls\shortcut\RunMacroDlg.cpp,21,29,95
+HTML,.\notepad-plusplus_html\24932.html,0,0,95
+XML,.\PowerEditor\src\toolbarIcons.xml,0,0,94
+HTML,.\notepad-plusplus_html\3720.html,0,0,94
+HTML,.\notepad-plusplus_html\29974.html,0,0,94
+HTML,.\notepad-plusplus_html\22698.html,0,0,94
+C/C++ Header,.\PowerEditor\src\WinControls\Grid\BabyGrid.h,14,7,93
+HTML,.\notepad-plusplus_html\62.html,0,0,93
+HTML,.\notepad-plusplus_html\28557.html,0,0,93
+C/C++ Header,.\PowerEditor\src\WinControls\ReadDirectoryChanges\ReadDirectoryChangesPrivate.h,37,47,93
+HTML,.\notepad-plusplus_html\19414.html,0,0,93
+HTML,.\notepad-plusplus_html\50992.html,0,0,93
+HTML,.\notepad-plusplus_html\4132.html,0,0,92
+HTML,.\notepad-plusplus_html\4263.html,0,0,92
+HTML,.\notepad-plusplus_html\7352.html,0,0,92
+HTML,.\notepad-plusplus_html\2645.html,0,0,92
+HTML,.\notepad-plusplus_html\28202.html,0,0,91
+HTML,.\notepad-plusplus_html\20401.html,0,0,91
+HTML,.\notepad-plusplus_html\39994.html,0,0,91
+HTML,.\notepad-plusplus_html\13845.html,0,0,91
+C++,.\scintilla\lexlib\LexerModule.cxx,14,7,90
+Qt Project,.\scintilla\qt\ScintillaEditPy\ScintillaEditPy.pro,19,12,90
+HTML,.\notepad-plusplus_html\30573.html,0,0,90
+C/C++ Header,.\scintilla\lexlib\SparseState.h,9,11,90
+HTML,.\notepad-plusplus_html\8261.html,0,0,90
+HTML,.\notepad-plusplus_html\16367.html,0,0,89
+C/C++ Header,.\PowerEditor\src\ScitillaComponent\FindReplaceDlg_rc.h,17,32,89
+HTML,.\notepad-plusplus_html\14907.html,0,0,89
+C/C++ Header,.\PowerEditor\src\localizationString.h,1,26,89
+HTML,.\notepad-plusplus_html\4104.html,0,0,89
+C/C++ Header,.\scintilla\qt\ScintillaEdit\ScintillaDocument.h,16,5,88
+HTML,.\notepad-plusplus_html\7303.html,0,0,88
+C/C++ Header,.\PowerEditor\src\tools\NppShell\src\NppShell.h,24,19,88
+C++,.\PowerEditor\src\uchardet\nsHebrewProber.cpp,20,86,88
+HTML,.\notepad-plusplus_html\16108.html,0,0,88
+C/C++ Header,.\PowerEditor\src\WinControls\DocumentMap\documentMap.h,30,27,88
+HTML,.\notepad-plusplus_html\8939.html,0,0,88
+HTML,.\notepad-plusplus_html\8894.html,0,0,87
+HTML,.\notepad-plusplus_html\19451.html,0,0,87
+HTML,.\notepad-plusplus_html\961.html,0,0,87
+HTML,.\notepad-plusplus_html\47034.html,0,0,87
+C/C++ Header,.\PowerEditor\src\WinControls\ImageListSet\ImageListSet.h,27,26,87
+C/C++ Header,.\scintilla\cocoa\PlatCocoa.h,26,11,86
+HTML,.\notepad-plusplus_html\2983.html,0,0,86
+HTML,.\notepad-plusplus_html\14993.html,0,0,85
+C/C++ Header,.\PowerEditor\src\WinControls\FunctionList\functionListPanel.h,27,45,85
+HTML,.\notepad-plusplus_html\15722.html,0,0,85
+HTML,.\notepad-plusplus_html\4134.html,0,0,84
+C++,.\PowerEditor\src\WinControls\ContextMenu\ContextMenu.cpp,15,26,84
+HTML,.\notepad-plusplus_html\1196.html,0,0,84
+HTML,.\notepad-plusplus_html\9214.html,0,0,83
+C/C++ Header,.\PowerEditor\src\WinControls\SplitterContainer\Splitter.h,27,26,81
+C/C++ Header,.\scintilla\cocoa\QuartzTextStyle.h,21,7,81
+HTML,.\notepad-plusplus_html\19306.html,0,0,81
+HTML,.\notepad-plusplus_html\959.html,0,0,81
+HTML,.\notepad-plusplus_html\2132.html,0,0,81
+HTML,.\notepad-plusplus_html\22515.html,0,0,81
+C/C++ Header,.\PowerEditor\src\WinControls\Window.h,28,30,80
+HTML,.\notepad-plusplus_html\2122.html,0,0,80
+C++,.\PowerEditor\src\WinControls\ImageListSet\ImageListSet.cpp,20,27,80
+HTML,.\notepad-plusplus_html\10728.html,0,0,80
+HTML,.\notepad-plusplus_html\16365.html,0,0,80
+HTML,.\notepad-plusplus_html\25588.html,0,0,79
+C/C++ Header,.\PowerEditor\src\MISC\FileNameStringSplitter.h,18,27,79
+HTML,.\notepad-plusplus_html\35202.html,0,0,79
+HTML,.\notepad-plusplus_html\1197.html,0,0,79
+C/C++ Header,.\scintilla\include\ILexer.h,12,7,79
+HTML,.\notepad-plusplus_html\13971.html,0,0,78
+HTML,.\notepad-plusplus_html\18752.html,0,0,78
+HTML,.\notepad-plusplus_html\24644.html,0,0,77
+HTML,.\notepad-plusplus_html\8434.html,0,0,77
+HTML,.\notepad-plusplus_html\2124.html,0,0,77
+C++,.\PowerEditor\src\uchardet\nsSBCharSetProber.cpp,13,38,76
+HTML,.\notepad-plusplus_html\4055.html,0,0,76
+HTML,.\notepad-plusplus_html\35913.html,0,0,75
+Python,.\scintilla\scripts\GenerateCaseConvert.py,28,23,75
+HTML,.\notepad-plusplus_html\1193.html,0,0,75
+C/C++ Header,.\PowerEditor\src\WinControls\DockingWnd\DockingManager.h,22,31,75
+HTML,.\notepad-plusplus_html\7934.html,0,0,75
+HTML,.\notepad-plusplus_html\15777.html,0,0,75
+C/C++ Header,.\scintilla\boostregex\AnsiDocumentIterator.h,16,4,74
+make,.\scintilla\gtk\makefile,20,12,74
+C/C++ Header,.\scintilla\cocoa\QuartzTextLayout.h,23,15,73
+C/C++ Header,.\scintilla\src\ScintillaBase.h,21,11,72
+HTML,.\notepad-plusplus_html\20374.html,0,0,72
+C,.\scintilla\gtk\scintilla-marshal.c,9,5,72
+C/C++ Header,.\scintilla\src\Style.h,10,10,71
+HTML,.\notepad-plusplus_html\2125.html,0,0,71
+C++,.\scintilla\lexlib\LexerBase.cxx,15,6,71
+HTML,.\notepad-plusplus_html\3977.html,0,0,71
+C++,.\PowerEditor\src\uchardet\nsCharSetProber.cpp,13,45,71
+HTML,.\notepad-plusplus_html\19664.html,0,0,70
+C/C++ Header,.\PowerEditor\src\MISC\crc16\Crc16.h,20,32,70
+C/C++ Header,.\PowerEditor\src\WinControls\WindowsDlg\WindowsDlg.h,21,27,70
+HTML,.\scintilla\doc\ScintillaDownload.html,0,0,70
+HTML,.\notepad-plusplus_html\1059.html,0,0,70
+C/C++ Header,.\PowerEditor\src\Notepad_plus_Window.h,19,26,69
+HTML,.\notepad-plusplus_html\36372.html,0,0,69
+HTML,.\notepad-plusplus_html\8718.html,0,0,68
+HTML,.\notepad-plusplus_html\33490.html,0,0,68
+HTML,.\notepad-plusplus_html\33484.html,0,0,68
+HTML,.\notepad-plusplus_html\37801.html,0,0,67
+C/C++ Header,.\PowerEditor\src\WinControls\Grid\ShortcutMapper.h,19,27,67
+HTML,.\notepad-plusplus_html\28567.html,0,0,67
+C/C++ Header,.\scintilla\gtk\Converter.h,5,11,67
+C/C++ Header,.\PowerEditor\src\uchardet\nsSBCharSetProber.h,17,46,67
+C/C++ Header,.\PowerEditor\src\uchardet\JpCntx.h,24,50,66
+C/C++ Header,.\PowerEditor\src\lastRecentFileList.h,24,27,66
+HTML,.\notepad-plusplus_html\14564.html,0,0,66
+HTML,.\notepad-plusplus_html\3723.html,0,0,66
+HTML,.\notepad-plusplus_html\19710.html,0,0,66
+C++,.\scintilla\test\unit\testDecoration.cxx,20,3,66
+C++,.\PowerEditor\src\MISC\Exception\MiniDumper.cpp,14,31,66
+C/C++ Header,.\scintilla\src\XPM.h,7,22,65
+HTML,.\notepad-plusplus_html\8721.html,0,0,65
+C/C++ Header,.\scintilla\src\LineMarker.h,7,14,65
+HTML,.\notepad-plusplus_html\1189.html,0,0,65
+HTML,.\notepad-plusplus_html\14150.html,0,0,65
+C/C++ Header,.\PowerEditor\src\WinControls\ReadDirectoryChanges\ThreadSafeQueue.h,21,30,65
+C/C++ Header,.\scintilla\src\ExternalLexer.h,17,10,65
+C++,.\PowerEditor\src\WinControls\ReadDirectoryChanges\ReadDirectoryChanges.cpp,17,31,64
+Qt Project,.\scintilla\qt\ScintillaEdit\ScintillaEdit.pro,10,5,64
+HTML,.\notepad-plusplus_html\14151.html,0,0,64
+HTML,.\notepad-plusplus_html\20178.html,0,0,64
+HTML,.\notepad-plusplus_html\45151.html,0,0,63
+HTML,.\notepad-plusplus_html\3724.html,0,0,63
+HTML,.\notepad-plusplus_html\20821.html,0,0,63
+HTML,.\notepad-plusplus_html\26572.html,0,0,62
+HTML,.\notepad-plusplus_html\8919.html,0,0,62
+HTML,.\notepad-plusplus_html\14604.html,0,0,62
+HTML,.\notepad-plusplus_html\603.html,0,0,62
+XML,.\PowerEditor\src\userDefineLang.xml,0,0,62
+HTML,.\notepad-plusplus_html\22538.html,0,0,62
+HTML,.\notepad-plusplus_html\5961.html,0,0,62
+C++,.\scintilla\src\EditModel.cxx,9,6,62
+C/C++ Header,.\PowerEditor\src\WinControls\VerticalFileSwitcher\VerticalFileSwitcherListView.h,17,26,62
+HTML,.\notepad-plusplus_html\20179.html,0,0,61
+HTML,.\notepad-plusplus_html\2133.html,0,0,61
+C/C++ Header,.\PowerEditor\src\MISC\Common\mutex.h,37,136,61
+HTML,.\notepad-plusplus_html\22532.html,0,0,61
+HTML,.\notepad-plusplus_html\28921.html,0,0,61
+C/C++ Header,.\PowerEditor\src\WinControls\AboutDlg\AboutDlg.h,21,26,60
+HTML,.\notepad-plusplus_html\3250.html,0,0,60
+C/C++ Header,.\PowerEditor\src\WinControls\VerticalFileSwitcher\VerticalFileSwitcher.h,22,27,60
+C/C++ Header,.\PowerEditor\src\WinControls\ClipboardHistory\clipboardHistoryPanel.h,19,33,60
+HTML,.\notepad-plusplus_html\15188.html,0,0,59
+Python,.\scintilla\test\MessageNumbers.py,3,1,59
+C/C++ Header,.\PowerEditor\src\dpiManager.h,17,48,59
+C/C++ Header,.\scintilla\src\CallTip.h,18,16,59
+Windows Resource File,.\PowerEditor\src\WinControls\ColourPicker\WordStyleDlg.rc,6,26,59
+C++,.\PowerEditor\src\WinControls\TabBar\ControlsTab.cpp,13,29,59
+HTML,.\notepad-plusplus_html\2137.html,0,0,58
+C/C++ Header,.\PowerEditor\src\localization.h,14,27,58
+C/C++ Header,.\PowerEditor\src\MISC\Common\mutex.hxx,22,36,58
+HTML,.\notepad-plusplus_html\57.html,0,0,58
+C++,.\scintilla\lexlib\Accessor.cxx,10,11,58
+HTML,.\notepad-plusplus_html\22430.html,0,0,57
+Markdown,.\README.md,30,0,57
+Windows Resource File,.\PowerEditor\src\tools\NppShell\src\NppShell.rc,7,13,57
+HTML,.\notepad-plusplus_html\25990.html,0,0,57
+Windows Resource File,.\PowerEditor\src\WinControls\shortcut\shortcut.rc,5,26,57
+HTML,.\notepad-plusplus_html\21077.html,0,0,56
+C++,.\PowerEditor\src\uchardet\uchardet.cpp,14,36,56
+HTML,.\notepad-plusplus_html\52105.html,0,0,56
+HTML,.\notepad-plusplus_html\16151.html,0,0,56
+HTML,.\notepad-plusplus_html\1194.html,0,0,56
+C/C++ Header,.\PowerEditor\src\uchardet\nsCodingStateMachine.h,12,39,56
+HTML,.\scintilla\doc\Icons.html,0,0,56
+C/C++ Header,.\PowerEditor\src\ScitillaComponent\AutoCompletion.h,20,32,56
+C/C++ Header,.\PowerEditor\src\lesDlgs.h,12,29,56
+XML,.\PowerEditor\installer\APIs\rc.xml,0,0,55
+HTML,.\notepad-plusplus_html\19383.html,0,0,55
+C++,.\PowerEditor\src\uchardet\CharDistribution.cpp,13,41,55
+C/C++ Header,.\PowerEditor\src\ScitillaComponent\FunctionCallTip.h,10,27,55
+HTML,.\notepad-plusplus_html\28913.html,0,0,55
+C/C++ Header,.\PowerEditor\src\MISC\Process\ProcessAvecThread\ProcessThread.h,19,27,54
+HTML,.\notepad-plusplus_html\19452.html,0,0,54
+C++,.\PowerEditor\src\WinControls\WindowsDlg\SizeableDlg.cpp,10,27,53
+HTML,.\notepad-plusplus_html\19307.html,0,0,53
+C/C++ Header,.\scintilla\lexlib\LexerModule.h,15,14,53
+C++,.\PowerEditor\src\uchardet\nsEscCharsetProber.cpp,8,36,53
+C/C++ Header,.\scintilla\cocoa\QuartzTextStyleAttribute.h,14,16,52
+HTML,.\notepad-plusplus_html\9466.html,0,0,52
+C/C++ Header,.\PowerEditor\src\ScitillaComponent\DocTabView.h,18,26,51
+C++,.\scintilla\lexlib\LexerNoExceptions.cxx,7,10,51
+C/C++ Header,.\scintilla\src\AutoComplete.h,20,24,51
+HTML,.\notepad-plusplus_html\16364.html,0,0,51
+HTML,.\notepad-plusplus_html\18968.html,0,0,51
+C++,.\scintilla\src\CaseFolder.cxx,11,6,51
+C/C++ Header,.\PowerEditor\src\MISC\Process\ProcessAvecThread\Process.h,17,31,50
+HTML,.\notepad-plusplus_html\4519.html,0,0,50
+C++,.\PowerEditor\src\WinControls\WindowsDlg\WinRect.cpp,9,24,50
+HTML,.\notepad-plusplus_html\18678.html,0,0,50
+HTML,.\notepad-plusplus_html\29564.html,0,0,49
+C/C++ Header,.\PowerEditor\src\WinControls\SplitterContainer\SplitterContainer.h,22,26,49
+C++,.\PowerEditor\src\MISC\Exception\Win32Exception.cpp,12,32,48
+HTML,.\notepad-plusplus_html\18368.html,0,0,48
+C/C++ Header,.\scintilla\src\RESearch.h,14,11,48
+C++,.\PowerEditor\src\uchardet\nsEUCJPProber.cpp,12,40,47
+HTML,.\notepad-plusplus_html\3846.html,0,0,47
+HTML,.\notepad-plusplus_html\3902.html,0,0,47
+C++,.\PowerEditor\src\uchardet\nsSJISProber.cpp,12,40,47
+HTML,.\notepad-plusplus_html\7306.html,0,0,47
+Python,.\scintilla\scripts\HFacer.py,6,8,47
+HTML,.\notepad-plusplus_html\1043.html,0,0,47
+C++,.\PowerEditor\src\ScitillaComponent\ScintillaCtrls.cpp,9,26,47
+HTML,.\notepad-plusplus_html\14600.html,0,0,47
+HTML,.\notepad-plusplus_html\7144.html,0,0,46
+C/C++ Header,.\scintilla\src\Indicator.h,6,8,46
+HTML,.\notepad-plusplus_html\40350.html,0,0,46
+HTML,.\notepad-plusplus_html\1192.html,0,0,46
+HTML,.\notepad-plusplus_html\59.html,0,0,46
+HTML,.\notepad-plusplus_html\16363.html,0,0,46
+C/C++ Header,.\PowerEditor\src\WinControls\TaskList\TaskListDlg.h,13,26,46
+C/C++ Header,.\scintilla\src\KeyMap.h,9,12,45
+C++,.\scintilla\lexlib\CharacterSet.cxx,7,9,45
+C/C++ Header,.\scintilla\src\EditModel.h,14,11,45
+C++,.\PowerEditor\src\WinControls\ToolTip\ToolTip.cpp,16,28,45
+Python,.\scintilla\test\XiteQt.py,17,3,45
+C/C++ Header,.\PowerEditor\src\MISC\PluginsManager\deprecatedSymbols.h,9,26,45
+C/C++ Header,.\PowerEditor\src\uchardet\nsPkgInt.h,13,36,44
+C/C++ Header,.\PowerEditor\src\WinControls\StaticDialog\RunDlg\RunDlg.h,13,16,44
+C++,.\PowerEditor\src\WinControls\TreeView\TreeView.cpp,11,29,44
+make,.\scintilla\test\unit\makefile,12,11,44
+C/C++ Header,.\scintilla\src\Decoration.h,14,6,44
+Bourne Shell,.\scintilla\cocoa\checkbuildosx.sh,11,12,43
+C/C++ Header,.\scintilla\src\ContractionState.h,15,11,43
+C/C++ Header,.\PowerEditor\src\uchardet\nsUniversalDetector.h,10,36,43
+HTML,.\notepad-plusplus_html\1198.html,0,0,43
+HTML,.\notepad-plusplus_html\2139.html,0,0,43
+C/C++ Header,.\PowerEditor\src\MISC\PluginsManager\PluginInterface.h,16,28,43
+C/C++ Header,.\PowerEditor\src\WinControls\ColourPicker\WordStyleDlgRes.h,9,28,43
+HTML,.\notepad-plusplus_html\6294.html,0,0,43
+C++,.\scintilla\boostregex\UTF8DocumentIterator.cxx,9,5,43
+C++,.\scintilla\lexlib\StyleContext.cxx,8,6,42
+Markdown,.\PowerEditor\bin\updater\README.md,31,0,42
+C++,.\scintilla\lexlib\LexerSimple.cxx,9,6,42
+C++,.\PowerEditor\src\uchardet\nsUTF8Prober.cpp,9,36,42
+C/C++ Header,.\scintilla\src\UniConversion.h,15,11,42
+HTML,.\notepad-plusplus_html\10834.html,0,0,42
+HTML,.\notepad-plusplus_html\20734.html,0,0,42
+C++,.\scintilla\src\CharClassify.cxx,7,10,42
+C/C++ Header,.\PowerEditor\src\ScitillaComponent\GoToLineDlg.h,14,26,42
+C++,.\PowerEditor\src\uchardet\nsEUCTWProber.cpp,11,39,41
+C++,.\PowerEditor\src\uchardet\nsEUCKRProber.cpp,11,39,41
+C++,.\PowerEditor\src\uchardet\nsBig5Prober.cpp,11,36,41
+XML,.\PowerEditor\src\contextMenu.xml,7,25,41
+HTML,.\notepad-plusplus_html\19655.html,0,0,41
+HTML,.\notepad-plusplus_html\19042.html,0,0,41
+C/C++ Header,.\PowerEditor\src\WinControls\StaticDialog\StaticDialog.h,13,27,41
+C++,.\PowerEditor\src\uchardet\nsGB2312Prober.cpp,12,43,41
+C/C++ Header,.\PowerEditor\src\WinControls\TabBar\ControlsTab.h,15,26,40
+C/C++ Header,.\PowerEditor\src\WinControls\TaskList\TaskList.h,13,26,39
+HTML,.\notepad-plusplus_html\14774.html,0,0,39
+YAML,.\appveyor.yml,13,0,39
+C/C++ Header,.\PowerEditor\src\WinControls\ReadDirectoryChanges\ReadDirectoryChanges.h,30,95,39
+C/C++ Header,.\PowerEditor\src\WinControls\ContextMenu\ContextMenu.h,13,26,39
+C/C++ Header,.\PowerEditor\src\WinControls\AnsiCharPanel\ansiCharPanel.h,13,31,39
+C/C++ Header,.\PowerEditor\src\WinControls\FindCharsInRange\FindCharsInRange.h,12,26,38
+C/C++ Header,.\PowerEditor\src\WinControls\ColourPicker\ColourPopup.h,12,27,38
+C/C++ Header,.\PowerEditor\src\WinControls\OpenSaveFileDialog\FileDialog.h,17,26,38
+C/C++ Header,.\scintilla\src\RunStyles.h,7,9,38
+Python,.\scintilla\scripts\LexGen.py,9,7,38
+HTML,.\notepad-plusplus_html\7096.html,0,0,38
+HTML,.\notepad-plusplus_html\27051.html,0,0,37
+D,.\scintilla\test\examples\x.d,2,8,37
+HTML,.\notepad-plusplus_html\20088.html,0,0,37
+C/C++ Header,.\PowerEditor\src\tools\NppShell\src\Bitmap.h,9,0,36
+HTML,.\notepad-plusplus_html\47754.html,0,0,35
+C/C++ Header,.\PowerEditor\src\uchardet\nsMBCSGroupProber.h,8,37,35
+C/C++ Header,.\PowerEditor\src\WinControls\DockingWnd\Docking.h,17,33,35
+C/C++ Header,.\PowerEditor\src\MISC\Exception\Win32Exception.h,13,31,35
+C/C++ Header,.\PowerEditor\src\ScitillaComponent\colors.h,8,27,34
+C/C++ Header,.\scintilla\lexlib\WordList.h,5,9,33
+C/C++ Header,.\PowerEditor\src\WinControls\DockingWnd\dockingResource.h,13,35,33
+C/C++ Header,.\PowerEditor\src\ScitillaComponent\columnEditor.h,18,26,33
+HTML,.\notepad-plusplus_html\37293.html,0,0,32
+C/C++ Header,.\PowerEditor\src\WinControls\shortcut\RunMacroDlg.h,11,27,32
+C/C++ Header,.\PowerEditor\src\ScitillaComponent\xmlMatchedTagsHighlighter.h,17,27,32
+C/C++ Header,.\scintilla\src\CaseFolder.h,8,6,31
+C/C++ Header,.\PowerEditor\src\ScitillaComponent\Printer.h,9,26,31
+C/C++ Header,.\PowerEditor\src\WinControls\DockingWnd\DockingSplitter.h,15,26,31
+C/C++ Header,.\scintilla\include\ScintillaWidget.h,13,7,31
+C/C++ Header,.\scintilla\cocoa\InfoBar.h,11,13,31
+C/C++ Header,.\PowerEditor\src\MISC\RegExt\regExtDlg.h,12,26,31
+C/C++ Header,.\PowerEditor\src\WinControls\ColourPicker\ColourPicker.h,10,26,31
+Windows Resource File,.\scintilla\win32\ScintRes.rc,3,3,31
+C/C++ Header,.\PowerEditor\src\Utf8.h,6,20,29
+C/C++ Header,.\scintilla\lexlib\LexerBase.h,5,7,29
+HTML,.\notepad-plusplus_html\4518.html,0,0,29
+C/C++ Header,.\PowerEditor\src\WinControls\AboutDlg\URLCtrl.h,9,26,29
+C/C++ Header,.\PowerEditor\src\WinControls\ToolTip\ToolTip.h,10,28,28
+C/C++ Header,.\PowerEditor\src\uchardet\nsSJISProber.h,12,40,28
+C/C++ Header,.\PowerEditor\src\uchardet\nsEUCKRProber.h,10,37,28
+Windows Resource File,.\PowerEditor\src\ScitillaComponent\columnEditor.rc,8,26,28
+C/C++ Header,.\PowerEditor\src\WinControls\ProjectPanel\ProjectPanel_rc.h,10,26,28
+C/C++ Header,.\PowerEditor\src\uchardet\nsEUCJPProber.h,10,40,28
+C/C++ Header,.\PowerEditor\src\uchardet\nsGB2312Prober.h,11,38,27
+C++,.\scintilla\test\unit\testUnicodeFromUTF8.cxx,13,4,27
+C/C++ Header,.\PowerEditor\src\uchardet\nsHebrewProber.h,13,136,27
+C/C++ Header,.\PowerEditor\src\uchardet\nsBig5Prober.h,10,37,27
+C/C++ Header,.\PowerEditor\src\uchardet\nsEUCTWProber.h,10,37,27
+HTML,.\notepad-plusplus_html\28224.html,0,0,27
+C/C++ Header,.\PowerEditor\src\WinControls\StatusBar\StatusBar.h,13,26,26
+C/C++ Header,.\scintilla\src\MarginView.h,10,14,26
+Python,.\scintilla\scripts\GenerateCharacterCategory.py,7,4,25
+C/C++ Header,.\PowerEditor\src\uchardet\nsSBCSGroupProber.h,8,37,25
+Windows Resource File,.\PowerEditor\gcc\resources.rc,2,0,25
+C/C++ Header,.\PowerEditor\src\uchardet\nsCharSetProber.h,9,42,25
+HTML,.\notepad-plusplus_html\table_of_contents.html,0,0,24
+make,.\PowerEditor\src\tools\xmlUpdater\makefile,15,17,24
+C/C++ Header,.\PowerEditor\src\WinControls\AnsiCharPanel\ListView.h,11,26,23
+HTML,.\notepad-plusplus_html\31199.html,0,0,23
+Windows Resource File,.\PowerEditor\src\WinControls\WindowsDlg\WindowsDlg.rc,6,26,23
+C/C++ Header,.\PowerEditor\src\uchardet\nsLatin1Prober.h,10,37,23
+Python,.\scintilla\test\XiteMenu.py,3,2,23
+C/C++ Header,.\PowerEditor\src\uchardet\nsEscCharsetProber.h,8,36,23
+HTML,.\notepad-plusplus_html\5026.html,0,0,23
+C/C++ Header,.\scintilla\src\CharClassify.h,7,6,22
+C/C++ Header,.\scintilla\src\CaseConvert.h,10,15,22
+C/C++ Header,.\PowerEditor\src\uchardet\nsUTF8Prober.h,6,36,22
+C/C++ Header,.\PowerEditor\src\ScitillaComponent\ScintillaCtrls.h,8,26,22
+C++,.\PowerEditor\src\WinControls\TrayIcon\trayIconControler.cpp,6,26,22
+C/C++ Header,.\PowerEditor\src\WinControls\WindowsDlg\SizeableDlg.h,9,26,22
+C/C++ Header,.\scintilla\lexlib\Accessor.h,8,6,21
+C/C++ Header,.\scintilla\lexlib\PropSetSimple.h,5,6,21
+C/C++ Header,.\scintilla\src\UnicodeFromUTF8.h,5,6,21
+C/C++ Header,.\PowerEditor\src\WinControls\TreeView\TreeView.h,8,26,21
+XML,.\PowerEditor\src\shortcuts.xml,0,0,21
+Windows Resource File,.\PowerEditor\src\WinControls\shortcut\RunMacroDlg.rc,3,27,21
+Windows Resource File,.\PowerEditor\src\WinControls\StaticDialog\RunDlg\RunDlg.rc,7,15,21
+Windows Resource File,.\PowerEditor\src\WinControls\FindCharsInRange\findCharsInRange.rc,3,26,21
+C/C++ Header,.\PowerEditor\src\ScitillaComponent\columnEditor_rc.h,4,26,21
+C/C++ Header,.\PowerEditor\src\WinControls\WindowsDlg\WindowsDlgRc.h,8,26,20
+HTML,.\notepad-plusplus_html\5905.html,0,0,20
+C/C++ Header,.\scintilla\lexlib\StringCopy.h,7,10,19
+C/C++ Header,.\scintilla\lexlib\CharacterCategory.h,6,6,19
+Windows Resource File,.\PowerEditor\src\WinControls\ProjectPanel\ProjectPanel.rc,5,26,19
+HTML,.\notepad-plusplus_html\8239.html,0,0,19
+C/C++ Header,.\PowerEditor\src\EncodingMapper.h,6,26,19
+C++,.\PowerEditor\src\TinyXml\tinyxmlerror.cpp,9,24,18
+C/C++ Header,.\PowerEditor\src\uchardet\nscore.h,5,36,18
+C++,.\PowerEditor\src\TinyXml\tinyXmlA\tinyxmlerrorA.cpp,9,24,18
+C/C++ Header,.\PowerEditor\gcc\include\various.h,10,24,18
+C/C++ Header,.\PowerEditor\src\WinControls\TrayIcon\trayIconControler.h,8,27,18
+C/C++ Header,.\scintilla\lexlib\LexerNoExceptions.h,6,8,18
+C++,.\PowerEditor\src\tools\IExplorerShell\nppIExplorerShell.cpp,6,26,18
+C++,.\PowerEditor\src\WinControls\Grid\BabyGridWrapper.cpp,6,26,18
+C/C++ Header,.\scintilla\lexlib\LexerSimple.h,5,7,18
+C++,.\scintilla\test\unit\unitTest.cxx,9,32,17
+Windows Resource File,.\PowerEditor\src\WinControls\DockingWnd\DockingGUIWidget.rc,6,26,17
+Windows Resource File,.\PowerEditor\src\WinControls\Grid\ShortcutMapper.rc,4,27,17
+C++,.\PowerEditor\src\MISC\PluginsManager\IDAllocator.cpp,9,27,17
+XML,.\PowerEditor\src\tools\xmlUpdater\stylers_remove.xml,0,0,17
+C/C++ Header,.\PowerEditor\src\uchardet\uchardet.h,11,64,17
+C/C++ Header,.\PowerEditor\src\MISC\Process\Processus.h,9,26,16
+Markdown,.\ISSUE_TEMPLATE.md,6,0,16
+C/C++ Header,.\scintilla\src\FontQuality.h,6,9,16
+C/C++ Header,.\scintilla\cocoa\InfoBarCommunicator.h,5,14,16
+C/C++ Header,.\PowerEditor\src\WinControls\FileBrowser\fileBrowser_rc.h,10,26,16
+C/C++ Header,.\scintilla\win32\PlatWin.h,6,6,16
+C/C++ Header,.\PowerEditor\src\WinControls\shortcut\shortcutRc.h,4,26,16
+C/C++ Header,.\scintilla\src\Catalogue.h,5,6,15
+Windows Resource File,.\PowerEditor\src\WinControls\DocumentMap\documentMap.rc,4,26,15
+Windows Resource File,.\PowerEditor\src\MISC\RegExt\regExtDlg.rc,6,27,15
+C/C++ Header,.\PowerEditor\src\MISC\Exception\MiniDumper.h,8,29,15
+HTML,.\notepad-plusplus_html\8706.html,0,0,15
+HTML,.\notepad-plusplus_html\33347.html,0,0,14
+C++,.\scintilla\test\examples\x.cxx,1,1,14
+C/C++ Header,.\PowerEditor\src\MISC\PluginsManager\IDAllocator.h,8,28,14
+C/C++ Header,.\PowerEditor\src\ScitillaComponent\SmartHighlighter.h,6,26,14
+C/C++ Header,.\PowerEditor\src\WinControls\FindCharsInRange\findCharsInRange_rc.h,3,26,14
+C/C++ Header,.\PowerEditor\src\MISC\RegExt\regExtDlgRc.h,5,26,14
+C/C++ Header,.\scintilla\gtk\scintilla-marshal.h,7,1,13
+C/C++ Header,.\PowerEditor\src\WinControls\WindowInterface.h,5,26,13
+C/C++ Header,.\PowerEditor\src\StaticControl.h,5,27,13
+HTML,.\scintilla\test\examples\x.html,0,0,12
+ASP,.\scintilla\test\examples\x.asp,0,0,12
+C/C++ Header,.\scintilla\win32\HanjaDic.h,7,7,12
+C++,.\PowerEditor\src\MISC\Common\LongRunningOperation.cpp,11,26,11
+C/C++ Header,.\scintilla\cocoa\ScintillaTest\AppController.h,5,8,11
+Windows Resource File,.\PowerEditor\src\WinControls\ColourPicker\ColourPopup.rc,3,26,11
+XML,.\PowerEditor\src\tools\xmlUpdater\stylesModel.xml,1,0,11
+C/C++ Header,.\scintilla\include\BoostRegexSearch.h,2,0,10
+Windows Resource File,.\PowerEditor\src\WinControls\ClipboardHistory\clipboardHistoryPanel.rc,3,26,10
+C/C++ Header,.\PowerEditor\src\WinControls\shortcut\RunMacroDlg_rc.h,4,28,10
+XML,.\PowerEditor\bin\updater\gup.xml,12,52,9
+C/C++ Header,.\PowerEditor\src\uchardet\prmem.h,4,36,9
+C/C++ Header,.\PowerEditor\src\UniConversion.h,3,6,9
+Windows Resource File,.\PowerEditor\src\WinControls\VerticalFileSwitcher\VerticalFileSwitcher.rc,2,27,9
+C/C++ Header,.\PowerEditor\src\tools\NppShell\src\resource.h,3,0,9
+Python,.\scintilla\test\examples\x.py,0,2,9
+Windows Resource File,.\PowerEditor\src\WinControls\AnsiCharPanel\ansiCharPanel.rc,3,27,9
+C/C++ Header,.\PowerEditor\src\WinControls\FunctionList\functionListPanel_rc.h,5,26,9
+C/C++ Header,.\PowerEditor\src\WinControls\Grid\ShortcutMapper_rc.h,4,26,9
+Windows Resource File,.\PowerEditor\src\WinControls\FileBrowser\fileBrowser.rc,5,26,9
+Windows Resource File,.\PowerEditor\src\WinControls\FunctionList\functionListPanel.rc,3,28,9
+C/C++ Header,.\PowerEditor\src\MISC\Common\LongRunningOperation.h,4,26,9
+C/C++ Header,.\PowerEditor\src\WinControls\StaticDialog\RunDlg\RunDlg_rc.h,3,16,8
+C++,.\PowerEditor\src\MISC\Process\Processus.cpp,5,26,7
+C++,.\scintilla\boostregex\getboostver.cpp,2,0,7
+Windows Resource File,.\PowerEditor\src\WinControls\TaskList\TaskListDlg.rc,4,26,7
+C/C++ Header,.\PowerEditor\src\ScitillaComponent\UserDefineLangReference.h,7,26,7
+C/C++ Header,.\PowerEditor\src\clipboardFormats.h,4,26,6
+Ruby,.\scintilla\test\examples\x.rb,0,0,6
+Visual Basic,.\scintilla\test\examples\x.vb,0,3,6
+XML,.\PowerEditor\src\tools\xmlUpdater\langsModel.xml,0,0,6
+CSS,.\notepad-plusplus_html\sourcestyles.css,0,0,6
+XML,.\PowerEditor\src\tools\xmlUpdater\configModel.xml,0,0,6
+C/C++ Header,.\PowerEditor\src\WinControls\DocumentMap\documentMap_rc.h,5,26,6
+Windows Module Definition,.\PowerEditor\src\tools\NppShell\src\export.def,0,0,6
+C/C++ Header,.\PowerEditor\src\WinControls\VerticalFileSwitcher\VerticalFileSwitcher_rc.h,5,26,5
+C/C++ Header,.\PowerEditor\src\WinControls\TaskList\TaskListDlg_rc.h,4,26,5
+C/C++ Header,.\PowerEditor\src\WinControls\AnsiCharPanel\ansiCharPanel_rc.h,5,26,5
+Objective C,.\scintilla\cocoa\ScintillaTest\main.m,2,8,5
+C/C++ Header,.\PowerEditor\src\ScitillaComponent\ScintillaRef.h,4,26,5
+C/C++ Header,.\PowerEditor\src\WinControls\ClipboardHistory\clipboardHistoryPanel_rc.h,5,26,5
+Perl,.\scintilla\test\examples\x.pl,0,0,5
+PHP,.\scintilla\test\examples\x.php,0,1,5
+DOS Batch,.\scintilla\zipsrc.bat,0,0,4
+Lua,.\scintilla\test\examples\x.lua,0,3,4
+HTML,.\notepad-plusplus_html\scintilla\boostregex\UTF8DocumentIterator_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nscore_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ProjectPanel\ProjectPanel_rc_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsMBCSGroupProber_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\AutoComplete_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\MISC\Process\ProcessAvecThread\Process_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\SplitterContainer\Splitter_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexAVE_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\columnEditor_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\TinyXml\tinyxmlparser_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\TabBar\TabBar_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\MISC\RegExt\regExtDlg_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexASY_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsSBCSGroupProber_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\MISC\Process\ProcessAvecThread\Process_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\Buffer_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\win32\HanjaDic_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexHex_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\MISC\PluginsManager\PluginsManager_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexPowerShell_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\MISC\crc16\Crc16_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexForth_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\FunctionList\functionParser_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\JpCntx_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\MISC\PluginsManager\Notepad_plus_msgs_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\DockingWnd\dockingResource_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\Document_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\shortcut\RunMacroDlg_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\CharClassify_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\DocTabView_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\SmartHighlighter_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\TaskList\TaskList_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\test\unit\testUnicodeFromUTF8_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\TabBar\ControlsTab_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\OpenSaveFileDialog\FileDialog_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsCharSetProber_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\tools\ChangeIcon\ChangeIcon_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\LangThaiModel_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\gtk\scintilla-marshal_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexRebol_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexTACL_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\lastRecentFileList_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexlib\LexerNoExceptions_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\AutoCompletion_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\CaseConvert_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\test\unit\testCharClassify_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsUTF8Prober_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\ScintillaRef_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsMBCSSM_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsEscSM_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\shortcut\shortcut_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\MISC\Common\Common_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\FileBrowser\fileBrowser_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\include\Scintilla_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\WindowsDlg\WindowsDlg_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\cocoa\PlatCocoa_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\SplitVector_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\shortcut\RunMacroDlg_rc_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\TaskList\TaskListDlg_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\LangBulgarianModel_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexlib\LexerNoExceptions_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\FindReplaceDlg_rc_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexSML_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\localization_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\UnicodeFromUTF8_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\Style_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\tools\NppShell\src\Bitmap_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\Grid\ShortcutMapper_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\MISC\Common\mutex_hxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexHTML_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\CallTip_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\SplitterContainer\SplitterContainer_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexLaTeX_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexYAML_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\EditView_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\qt\ScintillaEdit\ScintillaDocument_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\JpCntx_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\CharClassify_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\localization_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\dpiManager_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexHaskell_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\SplitterContainer\Splitter_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\EditModel_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\MarginView_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\Partitioning_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexAsm_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsUniversalDetector_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsEUCTWProber_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\TinyXml\tinystr_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\UniConversion_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\MISC\RegExt\regExtDlgRc_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\DockingWnd\DockingCont_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexErlang_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexSpice_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ColourPicker\ColourPopup_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\ContractionState_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\MISC\Common\Sorters_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\test\unit\testDecoration_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\VerticalFileSwitcher\VerticalFileSwitcher_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\UniConversion_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\CaseConvert_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\lastRecentFileList_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\OpenSaveFileDialog\FileDialog_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexInno_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\WindowsDlg\WinMgr_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\PerLine_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\TabBar\TabBar_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\DockingWnd\DockingCont_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexPowerPro_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\FunctionCallTip_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexBibTeX_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexTADS3_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexProgress_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\DockingWnd\DockingSplitter_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexAPDL_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ReadDirectoryChanges\ReadDirectoryChanges_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\rgba_icons_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexMySQL_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\TreeView\TreeView_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\LangHungarianModel_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\MISC\Common\mutex_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ReadDirectoryChanges\ReadDirectoryChangesPrivate_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\FunctionList\functionParser_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ReadDirectoryChanges\ThreadSafeQueue_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexPython_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexR_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexConf_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexlib\LexerBase_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\resource_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\CharDistribution_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\FindCharsInRange\FindCharsInRange_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\colors_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\AnsiCharPanel\ansiCharPanel_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\AnsiCharPanel\ansiCharPanel_rc_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\include\SciLexer_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\TinyXml\tinyXmlA\tinyxmlA_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\xmlMatchedTagsHighlighter_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\NppCommands_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ContextMenu\ContextMenu_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\NppBigSwitch_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\Buffer_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsEUCTWProber_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\test\examples\x_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\SmartHighlighter_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\Grid\BabyGrid_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\Catalogue_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexKVIrc_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\Catalogue_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\include\ILexer_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexAU3_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\Preference\preference_rc_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexMetapost_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexPascal_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\DockingWnd\Gripper_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexPLM_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\GoToLineDlg_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\EditModel_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexUser_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\cocoa\InfoBar_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexlib\PropSetSimple_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\MISC\Common\Common_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexTCL_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ProjectPanel\TreeView_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\MISC\Process\ProcessAvecThread\ProcessThread_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\prmem_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsCharSetProber_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\qt\ScintillaEditBase\PlatQt_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsHebrewProber_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\Selection_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexMarkdown_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexCmake_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\Preference\preferenceDlg_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\FindCharsInRange\FindCharsInRange_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\NppNotification_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexCoffeeScript_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\shortcut\RunMacroDlg_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexA68k_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexObjC_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexBaan_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\TinyXml\tinyxml_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexBasic_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\WindowsDlg\SizeableDlg_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexVerilog_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\ScintillaEditView_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\cocoa\QuartzTextStyleAttribute_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ToolTip\ToolTip_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexRust_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\include\BoostRegexSearch_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\Parameters_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\ContractionState_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexlib\CharacterCategory_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexlib\LexerModule_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexFlagship_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexlib\SparseState_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexRegistry_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\TinyXml\tinyXmlA\tinyxmlerrorA_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\LineMarker_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\TabBar\ControlsTab_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexAVS_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsLatin1Prober_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\test\unit\catch_hpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\Decoration_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\VerticalFileSwitcher\VerticalFileSwitcherListView_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexModula_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\Utf8_16_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\cocoa\ScintillaTest\AppController_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\UniConversion_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexAda_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\StatusBar\StatusBar_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\UserDefineLangReference_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexlib\Accessor_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\tools\xmlApiSorter\sorter_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\VerticalFileSwitcher\VerticalFileSwitcher_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\TinyXml\tinyXmlA\tinystrA_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\TinyXml\tinyXmlA\tinyxmlparserA_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexEiffel_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsUTF8Prober_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\FindCharsInRange\findCharsInRange_rc_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsEscCharsetProber_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\Indicator_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ProjectPanel\TreeView_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\winmain_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ToolTip\ToolTip_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\CharDistribution_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ClipboardHistory\clipboardHistoryPanel_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexVHDL_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\win32\CheckD2D_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ClipboardHistory\clipboardHistoryPanel_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\Document_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexRuby_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\ExternalLexer_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\Notepad_plus_Window_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\AboutDlg\URLCtrl_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexlib\StyleContext_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\MISC\FileNameStringSplitter_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexTeX_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\MISC\PluginsManager\PluginsManager_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexlib\WordList_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\UserDefineDialog_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\Editor_cxx.html,0,0,3
+C/C++ Header,.\PowerEditor\src\WinControls\ColourPicker\ColourPopupResource.h,1,26,3
+HTML,.\notepad-plusplus_html\scintilla\lexlib\StyleContext_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ToolBar\ToolBar_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\StaticDialog\StaticDialog_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexlib\StringCopy_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\RunStyles_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\cocoa\QuartzTextLayout_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsLatin1Prober_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\localizationString_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\lesDlgs_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\EncodingMapper_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\lesDlgs_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\gtk\Converter_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\include\ScintillaWidget_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexlib\LexerSimple_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsBig5Prober_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\WindowsDlg\WindowsDlgRc_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\qt\ScintillaEditPy\global_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexFortran_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexlib\PropSetSimple_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\TinyXml\tinyXmlA\tinyxmlA_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsGB2312Prober_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\WindowsDlg\SizeableDlg_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\xmlMatchedTagsHighlighter_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexNsis_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\VerticalFileSwitcher\VerticalFileSwitcher_rc_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\tools\NppShell\src\NppShell_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexECL_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\DockingWnd\DockingManager_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\win32\HanjaDic_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexKix_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\FindReplaceDlg_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsCodingStateMachine_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\DockingWnd\Docking_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\MISC\Exception\Win32Exception_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\qt\ScintillaEditBase\ScintillaEditBase_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\TaskList\TaskListDlg_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\cocoa\ScintillaCocoa_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\StatusBar\StatusBar_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\Preference\preferenceDlg_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\keys_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\StaticDialog\RunDlg\RunDlg_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\TreeView\TreeView_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\Decoration_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexLout_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\Indicator_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\MISC\PluginsManager\PluginInterface_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsUniversalDetector_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexlib\Accessor_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\CellBuffer_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\Editor_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\Selection_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\WindowsDlg\WinRect_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexNimrod_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\Notepad_plus_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\UserDefineResource_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\KeyMap_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexPS_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsSBCSGroupProber_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\StaticDialog\RunDlg\RunDlg_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\StaticDialog\StaticDialog_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\NppIO_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\ScintillaEditView_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexPerl_cxx.html,0,0,3
+C/C++ Header,.\scintilla\qt\ScintillaEditPy\global.h,1,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\XPM_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\VerticalFileSwitcher\VerticalFileSwitcherListView_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexMPT_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsHebrewProber_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\tools\IExplorerShell\nppIExplorerShell_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexSTTXT_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexlib\LexerSimple_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ToolBar\ToolBar_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\clipboardFormats_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexSQL_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ColourPicker\ColourPopupResource_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ColourPicker\WordStyleDlg_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsGB2312Prober_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexMSSQL_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\MISC\PluginsManager\IDAllocator_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\LangCyrillicModel_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\tools\NppShell\src\NppShell_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\XPM_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\test\unit\testSparseState_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\TinyXml\tinystr_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexCLW_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\win32\PlatWin_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexBash_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexD_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexCSS_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ContextMenu\ContextMenu_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\Printer_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\gtk\PlatGTK_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexBullant_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\DockingWnd\DockingManager_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\Grid\BabyGridWrapper_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\shortcut\shortcut_cpp.html,0,0,3
+Python,.\scintilla\test\xite.py,2,1,3
+HTML,.\notepad-plusplus_html\scintilla\src\AutoComplete_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\EditView_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\ViewStyle_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\cocoa\QuartzTextStyle_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\gcc\include\various_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\Window_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexCPP_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\KeyMap_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\FileBrowser\fileBrowser_rc_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\columnEditor_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsSJISProber_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\cocoa\InfoBarCommunicator_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\Grid\BabyGrid_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\RESearch_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\Grid\BabyGridWrapper_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\qt\ScintillaEditBase\ScintillaQt_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\TrayIcon\trayIconControler_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\DockingWnd\DockingDlgInterface_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\shortcut\shortcutRc_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\WindowsDlg\WindowsDlg_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\Utf8_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\PositionCache_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexPO_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\DockingWnd\DockingSplitter_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ColourPicker\WordStyleDlg_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ReadDirectoryChanges\targetver_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexEScript_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexGui4Cli_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\qt\ScintillaEdit\ScintillaDocument_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ProjectPanel\ProjectPanel_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexMagik_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\FileBrowser\fileBrowser_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\test\unit\testPartitioning_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ProjectPanel\ProjectPanel_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\MISC\RegExt\regExtDlg_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\MISC\PluginsManager\deprecatedSymbols_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\TaskList\TaskListDlg_rc_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\test\unit\testCellBuffer_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\boostregex\AnsiDocumentIterator_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\qt\ScintillaEditBase\ScintillaEditBase_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexSmalltalk_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\UserDefineDialog_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsEscCharsetProber_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\WindowsDlg\WinMgr_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsEUCJPProber_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexlib\LexerModule_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\ViewStyle_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ReadDirectoryChanges\ReadDirectoryChanges_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\ScintillaBase_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexGAP_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexOpal_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\test\unit\unitTest_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexAsn1_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexSpecman_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexCaml_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\Style_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\FunctionList\functionListPanel_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\Grid\ShortcutMapper_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ImageListSet\ImageListSet_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexlib\WordList_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\ScintillaCtrls_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ColourPicker\WordStyleDlgRes_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\LineMarker_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\MISC\Exception\MiniDumper_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ColourPicker\ColourPicker_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\boostregex\UTF8DocumentIterator_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\Notepad_plus_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\DocumentMap\documentMap_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsSBCharSetProber_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\LangHebrewModel_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexSearchResult_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexlib\LexAccessor_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\GoToLineDlg_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexlib\LexerBase_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\MISC\Common\LongRunningOperation_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\uchardet_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\ExternalLexer_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexlib\CharacterSet_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexMMIXAL_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\TrayIcon\trayIconControler_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\Grid\ShortcutMapper_rc_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\AboutDlg\AboutDlg_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\ScintillaCtrls_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\EncodingMapper_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\boostregex\getboostver_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexScriptol_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\RESearch_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ColourPicker\ColourPicker_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\TaskList\TaskList_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexMatlab_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\StaticControl_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexlib\CharacterCategory_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\MarginView_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\Parameters_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexlib\OptionSet_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\PerLine_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\include\Platform_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\AnsiCharPanel\ansiCharPanel_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexSorcus_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\columnEditor_rc_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexCrontab_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\gtk\scintilla-marshal_c.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\test\unit\testContractionState_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexPB_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexTAL_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ClipboardHistory\clipboardHistoryPanel_rc_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\SplitterContainer\SplitterContainer_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\UniConversion_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\tools\NppShell\src\Bitmap_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\MISC\Common\mutex_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\DockingWnd\Gripper_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\win32\PlatWin_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\AboutDlg\AboutDlg_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexPOV_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\FindReplaceDlg_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexOthers_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\CaseFolder_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\cocoa\ScintillaView_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexVB_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\menuCmdID_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsEUCJPProber_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\qt\ScintillaEditBase\ScintillaQt_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\AboutDlg\URLCtrl_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexCOBOL_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\uchardet_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\ScintillaBase_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\MISC\Process\Processus_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\MISC\Exception\Win32Exception_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsEUCKRProber_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ColourPicker\ColourPopup_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\PositionCache_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\FunctionList\functionListPanel_rc_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\test\unit\testRunStyles_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\CellBuffer_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexLua_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\Printer_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\DocTabView_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\FontQuality_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\CallTip_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\DocumentMap\documentMap_rc_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\WindowInterface_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsPkgInt_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\boostregex\BoostRegExSearch_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\qt\ScintillaEditBase\PlatQt_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexTxt2tags_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\AutoCompletion_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\ScitillaComponent\FunctionCallTip_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexCsound_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexDMAP_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\MISC\Common\LongRunningOperation_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\DocumentMap\documentMap_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\AnsiCharPanel\ListView_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexAbaqus_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsEUCKRProber_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\test\unit\testSplitVector_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexVisualProlog_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\tools\xmlUpdater\xmlUpdater_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\MISC\PluginsManager\IDAllocator_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsSJISProber_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsMBCSGroupProber_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\MISC\Exception\MiniDumper_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\MISC\Process\Processus_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\StaticDialog\RunDlg\RunDlg_rc_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\Utf8_16_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\TinyXml\tinyxmlerror_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\LangGreekModel_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexDMIS_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\Notepad_plus_Window_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\gtk\ScintillaGTK_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\RunStyles_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexOScript_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsBig5Prober_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\TinyXml\tinyXmlA\tinystrA_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\FunctionList\functionListPanel_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ReadDirectoryChanges\ReadDirectoryChangesPrivate_cpp.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\src\CaseFolder_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\win32\ScintillaWin_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexlib\CharacterSet_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexlib\SubStyles_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\ImageListSet\ImageListSet_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\WinControls\AnsiCharPanel\ListView_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\TinyXml\tinyxml_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexLisp_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\tools\NppShell\src\resource_h.html,0,0,3
+HTML,.\notepad-plusplus_html\PowerEditor\src\uchardet\nsSBCharSetProber_h.html,0,0,3
+HTML,.\notepad-plusplus_html\scintilla\lexers\LexTCMD_cxx.html,0,0,3
+HTML,.\notepad-plusplus_html\projmetrics.html,0,0,2
+C/C++ Header,.\PowerEditor\src\WinControls\ReadDirectoryChanges\targetver.h,3,3,2
+HTML,.\notepad-plusplus_html\title.html,0,0,2
+make,.\PowerEditor\src\tools\IExplorerShell\makefile,0,0,2
+Windows Module Definition,.\scintilla\win32\Scintilla.def,0,0,2
+C++,.\scintilla\win32\CheckD2D.cxx,0,1,2
+HTML,.\notepad-plusplus_html\glossary.html,0,0,1
+DOS Batch,.\scintilla\delcvs.bat,0,0,1
+HTML,.\notepad-plusplus_html\index.html,0,0,1
+DOS Batch,.\scintilla\delbin.bat,0,0,1
